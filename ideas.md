@@ -4,7 +4,6 @@
   - Extemporaneous Groovy (Jake) 2017!
   - Google API (John)
   - Gentle Pen Testing (MJB)
-  - MPC infrastructure stuff - Willy Lee? MJB should contact (Maybe November?)
   - Upcoming Data Warehouse changes (Mark Skweres? Aaron B?)
   - Informatica/ETL group
   - Custom App Vision (Jon R)
