@@ -33,9 +33,9 @@
 
 ### Confirmed, not-yet-scheduled
 
-Meet a Dev Group - CEHD (Ian has confirmed with Brady Sloan)
-Meet a Dev Group - ASR (Ian)
-Meet a Dev Group - Libraries [David]
+- Meet a Dev Group - CEHD (Ian has confirmed with Brady Sloan)
+- Meet a Dev Group - ASR (Ian)
+- Meet a Dev Group - Libraries [David]
 
 # Code People Brown Bags
 
