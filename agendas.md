@@ -23,7 +23,7 @@
     - Solicit panelists outside of CPC. Mix of employees/manager
   
 ## December 1, 2016
-  - Meet a Dev Group - CEHD (Ian confirm)
+  - Meet a Dev Group: CEHD - Brady Sloan
 
 ### Confirmed, not-yet-scheduled
 
