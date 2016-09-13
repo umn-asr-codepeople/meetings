@@ -23,6 +23,7 @@
   
 ## December 1, 2016
   - Meet a Dev Group: CEHD - Brady Sloan
+  - Population Center Ops (title forthcoming) - June Taylor 25min
   - November items if November meeting cancelled
 
 ## January 5, 2017
