@@ -5,10 +5,9 @@
   - OpenShift (Michael Bearfoot) - 20 minutes
   - ? Elixir (Davin Lagerroos) - 20 minutes
   - Lightning Talks
-    - All People Collaboration
-    - Gopher Day of Code Retreat Announcement
-    - How to suggest Code-People Talks (Ian) (mention it again)
-    - How to Ignore files without changing `.gitignore` (Ian)
+    - All People Collaboration (Debbie)
+    - Gopher Day of Code Retreat Announcement (Debbie)
+    - How to suggest Code-People Talks (A committee member that does not work for ASR) (mention it again)
   Lunch: Bar Luchador
 
 ## November 3, 2016 (Combined {Code,Net,Web}-People
@@ -22,6 +21,8 @@
   - Meet a Dev Group: CEHD - Brady Sloan
   - Population Center Ops (Mesos/Docker, title forthcoming) - June Taylor 25min
   - November items if November meeting cancelled
+  - Lightning talks
+    - How to Ignore files without changing `.gitignore` (Ian)
 
 ## January 5, 2017
   - Happy Hour
