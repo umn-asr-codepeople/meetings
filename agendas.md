@@ -3,9 +3,7 @@
 ## October 6, 2016 - MC MJB
   - Pair programming (Jack/CCS/Mike Galvin) - 20 mintues
   - OpenShift (Michael Bearfoot) - 20 minutes
-  - One Of
-    - DevOpsDays/Artifactory? (Debbie?)
-    - Oracle Views (ASR - Ian)
+  - ? Elixir (Davin Lagerroos) - 20 minutes
   - Lightning Talks
     - All People Collaboration
     - Gopher Day of Code Retreat Announcement
