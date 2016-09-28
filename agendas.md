@@ -11,17 +11,16 @@
     - How to Ignore files without changing `.gitignore` (Ian)
   Lunch: Bar Luchador
 
-## November 3, 2016
+## November 3, 2016 (Combined {Code,Net,Web}-People
   This meeting likely cancelled, replaced with the 11/10 All People Collaboration meeting.
   - Unbagging Snakes (Refactoring Legacy Code) - Jake & CCS
-  - MPC infrastructure, Mesos/Docker (Willy & June --MJB got soft commitment, ask again in Sept)
   - Crowdsource Standup/Team Update (Ask all groups in attendance to talk about how they handle standup team updates)
     - Panel discussion
     - Solicit panelists outside of CPC. Mix of employees/manager
   
 ## December 1, 2016
   - Meet a Dev Group: CEHD - Brady Sloan
-  - Population Center Ops (title forthcoming) - June Taylor 25min
+  - Population Center Ops (Mesos/Docker, title forthcoming) - June Taylor 25min
   - November items if November meeting cancelled
 
 ## January 5, 2017
