@@ -7,6 +7,7 @@
   - Lightning Talks
     - All People Collaboration (Debbie)
     - Gopher Day of Code Retreat Announcement (Debbie)
+    - DevOps UMN Conference Announcement (Andrew Zenk)
     - How to suggest Code-People Talks (A committee member that does not work for ASR) (mention it again)
   Lunch: Bar Luchador
 
