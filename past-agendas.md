@@ -1,5 +1,16 @@
 # Past Meeting Agendas
 
+## October 6, 2016 - MC MJB
+  - Pair programming (Jack/CCS/Mike Galvin) - 20 mintues
+  - OpenShift (Michael Bearfoot) - 20 minutes
+  - ? Elixir (Davin Lagerroos) - 20 minutes
+  - Lightning Talks
+    - All People Collaboration (Debbie)
+    - Gopher Day of Code Retreat Announcement (Debbie)
+    - DevOps UMN Conference Announcement (Andrew Zenk)
+    - How to suggest Code-People Talks (A committee member that does not work for ASR) (mention it again)
+  Lunch: Bar Luchador
+
 ## September 1, 2016
   - Platform Vision (Marisa Brandt) - 20-30 minutes
   - Ansible Story (Debbie) - 20 minutes
