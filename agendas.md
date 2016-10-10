@@ -1,7 +1,6 @@
 # Code People Monthly Meetings
 
-## November 3, 2016 (Combined {Code,Net,Web}-People
-  This meeting likely cancelled, replaced with the 11/10 All People Collaboration meeting.
+## November 10, 2016 (Combined {Code,Net,Web}-People
   - Unbagging Snakes (Refactoring Legacy Code) - Jake & CCS
   - Crowdsource Standup/Team Update (Ask all groups in attendance to talk about how they handle standup team updates)
     - Panel discussion
