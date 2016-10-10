@@ -15,7 +15,7 @@
 
 ## January 5, 2017
   - Happy Hour
-  - 4:30ish
+  - 4 - 8
   - Town Hall
 
 ### Confirmed, not-yet-scheduled
