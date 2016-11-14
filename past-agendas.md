@@ -1,4 +1,9 @@
 # Past Meeting Agendas
+## November 10, 2016 (Combined {Code,Net,Web}-People
+  - Unbagging Snakes (Refactoring Legacy Code) - Jake & CCS
+  - Crowdsource Standup/Team Update (Ask all groups in attendance to talk about how they handle standup team updates)
+    - Panel discussion
+    - Solicit panelists outside of CPC. Mix of employees/manager
 
 ## October 6, 2016 - MC MJB
   - Pair programming (Jack/CCS/Mike Galvin) - 20 mintues
