@@ -1,6 +1,5 @@
 # Past Meeting Agendas
 ## November 10, 2016 (Combined {Code,Net,Web}-People
-  - Unbagging Snakes (Refactoring Legacy Code) - Jake & CCS
   - Crowdsource Standup/Team Update (Ask all groups in attendance to talk about how they handle standup team updates)
     - Panel discussion
     - Solicit panelists outside of CPC. Mix of employees/manager
@@ -33,3 +32,9 @@
     - CCF Project pitches
     - PaaS (Maybe, Michael Bearfoot)
   - Lunch: Plaza (Punch as rain backup)
+  - 
+
+## Brown Bags
+### Web Accessibility, September 15 2016
+  - Kim Doberstein
+
