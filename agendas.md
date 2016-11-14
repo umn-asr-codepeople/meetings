@@ -1,10 +1,5 @@
 # Code People Monthly Meetings
 
-## November 10, 2016 (Combined {Code,Net,Web}-People
-  - Unbagging Snakes (Refactoring Legacy Code) - Jake & CCS
-  - Crowdsource Standup/Team Update (Ask all groups in attendance to talk about how they handle standup team updates)
-    - Panel discussion
-    - Solicit panelists outside of CPC. Mix of employees/manager
   
 ## December 1, 2016
   - Meet a Dev Group: CEHD - Brady Sloan
@@ -18,13 +13,22 @@
   - 4 - 8
   - Town Hall
 
+## February 2, 2017
+  - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
+  - Meet a Dev Group (Chris Dinger, OIT Integration) 20min
+  - Life at the Help Desk (Paul Honsey) [#5](https://github.umn.edu/code-people/meetings/issues/5) 20min (Jack will arrange)
+  - Lightning Talks
+    - ?
+
+## March 2, 2017
+  - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13)
+  - DevOps and PeopleSoft Environments [#12](https://github.umn.edu/code-people/meetings/issues/12)
+
 ### Confirmed, not-yet-scheduled
 
-- Meet a Dev Group (Chris Dinger, OIT Integration)
-- Meet a Dev Group - ASR (Ian)
-- Meet a Dev Group - Libraries [David]
+  - Meet a Dev Group (Chris Dinger, OIT Integration)
+  - Meet a Dev Group - ASR (Ian)
+  - Meet a Dev Group - Libraries [David]
 
 # Code People Brown Bags
 
-## Web Accessibility, September 15
-  - Kim Doberstein
