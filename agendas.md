@@ -1,12 +1,13 @@
 # Code People Monthly Meetings
 
   
-## December 1, 2016
+## December 1, 2016 (MC Debbie)
   - Meet a Dev Group: CEHD - Brady Sloan
   - Population Center Ops (Mesos/Docker, title forthcoming) - June Taylor 25min
   - Automated testing with Moodle - Travis Noll 25min
   - Lightning talks
     - How to Ignore files without changing `.gitignore` (Ian)
+  -Lunch at Annie's Parlour
 
 ## January 5, 2017
   - Happy Hour
