@@ -22,6 +22,7 @@
   
 ## May
   - TechPeople
+    - Agenda TBD. [Submit your ideas](https://github.umn.edu/code-people/meetings/issues)  
   
 ### Confirmed, not-yet-scheduled
 
