@@ -6,18 +6,20 @@
   - Town Hall
 
 ## February 2, 2017
-  - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13)
+  - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13) 20-30
   - Meet a Dev Group (Chris Dinger, OIT Integration) 20min
   - Life at the Help Desk (Paul Honsey) [#5](https://github.umn.edu/code-people/meetings/issues/5) 20min (Jack will arrange)
   - Lightning Talks
-    - ?
+    - Git Ignore (Ian)
 
 ## March 2, 2017
   - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
-  - DevOps and PeopleSoft Environments [#12](https://github.umn.edu/code-people/meetings/issues/12)
-
+  - DevOps and PeopleSoft Environments (Brad Carlson & Nate Werner) [#12](https://github.umn.edu/code-people/meetings/issues/12)
+  - UmbraSearch? (Chad, Ian will contact) [#7]
+  
 ## April
-
+  - Ruby on Rails as a Java Developer (Jack) [#3] - 20min
+  
 ## May
   - TechPeople
   
