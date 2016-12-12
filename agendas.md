@@ -16,6 +16,11 @@
   - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
   - DevOps and PeopleSoft Environments [#12](https://github.umn.edu/code-people/meetings/issues/12)
 
+## April
+
+## May
+  - TechPeople
+  
 ### Confirmed, not-yet-scheduled
 
   - Meet a Dev Group (Chris Dinger, OIT Integration)
