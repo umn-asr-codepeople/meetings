@@ -1,14 +1,5 @@
 # Code People Monthly Meetings
 
-  
-## December 1, 2016 (MC Debbie)
-  - Meet a Dev Group: CEHD - Brady Sloan
-  - MPC Mesos Experience  - June Taylor - June Taylor 25min
-  - Automated testing with Moodle - Travis Noll 25min
-  - Lightning talks
-    - How to Ignore files without changing `.gitignore` (Ian)
-  -Lunch at Annie's Parlour
-
 ## January 5, 2017
   - Happy Hour
   - 4 - 8
