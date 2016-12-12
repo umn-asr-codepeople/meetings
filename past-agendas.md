@@ -1,4 +1,13 @@
 # Past Meeting Agendas
+
+## December 1, 2016 (MC Debbie)
+  - Meet a Dev Group: CEHD - Brady Sloan
+  - MPC Mesos Experience  - June Taylor - June Taylor 25min
+  - Automated testing with Moodle - Travis Noll 25min
+  - Lightning talks
+    - How to Ignore files without changing `.gitignore` (Ian)
+  -Lunch at Annie's Parlour
+
 ## November 10, 2016 (Combined {Code,Net,Web}-People
   - Crowdsource Standup/Team Update (Ask all groups in attendance to talk about how they handle standup team updates)
     - Panel discussion
