@@ -7,7 +7,6 @@
 
 ## February 2, 2017
   - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13) 20-30
-  - Meet a Dev Group (Chris Dinger, OIT Integration) 20min (maybe)
   - Life at the Help Desk (Paul Honsey) [#5](https://github.umn.edu/code-people/meetings/issues/5) 20min (Jack will arrange)
   - Lightning Talks
     - Git Ignore (Ian)
@@ -26,6 +25,7 @@
   
 ### Confirmed, not-yet-scheduled
 
+  - Meet a Dev Group (Chris Dinger, OIT Integration)
   - Meet a Dev Group - ASR (Ian)
   - Meet a Dev Group - Libraries [David]
 
