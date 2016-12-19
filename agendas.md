@@ -6,7 +6,7 @@
   - Town Hall
 
 ## February 2, 2017
-  - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13) 20-30
+  - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13) 30
   - Life at the Help Desk (Paul Honsey) [#5](https://github.umn.edu/code-people/meetings/issues/5) 20min (Jack will arrange)
   - Lightning Talks
     - Git Ignore (Ian)
