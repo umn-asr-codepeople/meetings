@@ -1,10 +1,5 @@
 # Code People Monthly Meetings
 
-## January 5, 2017
-  - Happy Hour
-  - 4 - 8
-  - Town Hall
-
 ## February 2, 2017
   - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13) 30
   - Life at the Help Desk (Paul Honsey) [#5](https://github.umn.edu/code-people/meetings/issues/5) 20min (Jack will arrange)
