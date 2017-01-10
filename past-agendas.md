@@ -1,5 +1,10 @@
 # Past Meeting Agendas
 
+## January 5, 2017
+  - Happy Hour
+  - 4 - 8
+  - Town Hall
+
 ## December 1, 2016 (MC Debbie)
   - Meet a Dev Group: CEHD - Brady Sloan
   - MPC Mesos Experience  - June Taylor - June Taylor 25min
