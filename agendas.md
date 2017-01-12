@@ -11,7 +11,8 @@
 
 ## March 2, 2017
   - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
-  - DevOps and PeopleSoft Environments (Brad Carlson & Nate Werner) [#12](https://github.umn.edu/code-people/meetings/issues/12)
+  - Open Sourcing Code
+  - ~DevOps and PeopleSoft Environments (Brad Carlson & Nate Werner) [#12](https://github.umn.edu/code-people/meetings/issues/12)~
   - Possibilities
     - UmbraSearch? (Chad, Ian will contact) [#7]
     - Peoplesoft Query as a Service - Jeremy Irrthum   
