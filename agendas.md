@@ -1,6 +1,9 @@
 # Code People Monthly Meetings
 
 ## March 2, 2017
+
+### MC: Ian
+
   - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
   - Meet ASR - 20min (Ian) [may get bumped for Snakes]
   - Ruby on Rails as a Java Developer (Jack) [#3] - 20min
