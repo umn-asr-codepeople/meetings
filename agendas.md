@@ -13,7 +13,7 @@
       - Previous examples
       - Get talk ideas
   
-## April
+## April 6
   - Peoplesoft Query as a Service - Jeremy Irrthum 
   - Meet a Dev Group (Chris Dinger, OIT Integration)
   - Possibilities
