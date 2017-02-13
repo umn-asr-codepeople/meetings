@@ -12,7 +12,13 @@
     - TechPeople in May, 13 - TechPeople committee
       - Previous examples
       - Get talk ideas
-  
+
+### Lunch Options
+
+- Himalayan
+- Annie's
+- Wally's
+
 ## April 6
   - Peoplesoft Query as a Service - Jeremy Irrthum 
   - Meet a Dev Group (Chris Dinger, OIT Integration)
