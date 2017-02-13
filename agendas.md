@@ -2,28 +2,38 @@
 
 ## March 2, 2017
   - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
-  - 
-  - 
-  - Possibilities
-    - UmbraSearch? (Chad, Ian will contact) [#7]
-    - Peoplesoft Query as a Service - Jeremy Irrthum   
-    - Meet OIT Integration - Chris D.
-    - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
+  - Meet ASR - 20min (Ian) [may get bumped for Snakes]
+  - Ruby on Rails as a Java Developer (Jack) [#3] - 20min
+  - Lightning Talks
+    - DevOps - Debbie
+    - TechPeople in May, 13 - TechPeople committee
+      - Previous examples
+      - Get talk ideas
   
 ## April
-  - Ruby on Rails as a Java Developer (Jack) [#3] - 20min
-  - Gentle Pen Testing - MJB 25min [#15](https://github.umn.edu/code-people/meetings/issues/15)
+  - Peoplesoft Query as a Service - Jeremy Irrthum 
+  - Meet a Dev Group (Chris Dinger, OIT Integration)
+  - Possibilities
+    - Coderetreat Retrospective (Ian) - 10 min, max
+    - DevOps Retrospective (Debbie) - 
   
-## May
+## May, 13
   - TechPeople
     - Agenda TBD. [Submit your ideas](https://github.umn.edu/code-people/meetings/issues)  
-  
-### Confirmed, not-yet-scheduled
+    - Gentle Pen Testing - MJB 25min [#15](https://github.umn.edu/code-people/meetings/issues/15)
 
-  - Coderetreat Retrospective (Ian)
-  - Meet a Dev Group (Chris Dinger, OIT Integration)
+## June, 1
+
+
+### Confirmed, not-yet-scheduled
+  - Gentle Pen Testing - MJB 25min [#15](https://github.umn.edu/code-people/meetings/issues/15)
   - Meet a Dev Group - ASR (Ian)
   - Meet a Dev Group - Libraries [David]
+  - Meet OIT Integration - Chris D.
+  - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
+  - Meet 
+  - UmbraSearch? (Chad, Ian will contact) [#7]
+  
 
 # Code People Brown Bags
 
