@@ -32,7 +32,7 @@
     - Gentle Pen Testing - MJB 25min [#15](https://github.umn.edu/code-people/meetings/issues/15)
 
 ## June, 1
-
+  - UmbraSearch (Chad, Ian has confirmed) [#7](https://github.umn.edu/code-people/meetings/issues/7)
 
 ### Confirmed, not-yet-scheduled
   - Swift - Colin McFadden [#11](https://github.umn.edu/code-people/meetings/issues/11)
@@ -41,9 +41,6 @@
   - Meet a Dev Group - Libraries [David]
   - Meet OIT Integration - Chris D.
   - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
-  - Meet 
-  - UmbraSearch? (Chad, Ian will contact) [#7]
   
-
 # Code People Brown Bags
 
