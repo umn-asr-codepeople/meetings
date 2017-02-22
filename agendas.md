@@ -35,6 +35,7 @@
 
 
 ### Confirmed, not-yet-scheduled
+  - Swift - Colin McFadden [#11](https://github.umn.edu/code-people/meetings/issues/11)
   - Gentle Pen Testing - MJB 25min [#15](https://github.umn.edu/code-people/meetings/issues/15)
   - Meet a Dev Group - ASR (Ian)
   - Meet a Dev Group - Libraries [David]
