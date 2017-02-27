@@ -22,6 +22,7 @@
 ## April 6
   - Peoplesoft Query as a Service - Jeremy Irrthum 
   - Meet a Dev Group (Chris Dinger, OIT Integration)
+  - Ansible (Andrew Zenk and David Naughton)
   - Possibilities
     - Coderetreat Retrospective (Ian) - 10 min, max
     - DevOps Retrospective (Debbie) - 
