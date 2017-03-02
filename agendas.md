@@ -22,9 +22,12 @@
 ## April 6
   - Peoplesoft Query as a Service - Jeremy Irrthum 
   - Meet a Dev Group (Chris Dinger, OIT Integration)
+  - Open Sourced Software at the U - Brad Carlson
   - Possibilities
     - Coderetreat Retrospective (Ian) - 10 min, max
     - DevOps Retrospective (Debbie) - 
+  - Lightning Talks
+    - What is a JSP Tag File? (Jack) -- could even be 10 mins 
   
 ## May, 13
   - TechPeople
