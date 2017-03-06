@@ -1,5 +1,23 @@
 # Past Meeting Agendas
 
+## March 2, 2017
+
+### MC: Ian
+
+  - Unbagging Snakes (Refactoring Legacy Code) - 25min (Jake & CCS)
+  - Meet ASR - 20min (Ian) [may get bumped for Snakes]
+  - Ruby on Rails as a Java Developer (Jack) [#3] - 20min
+  - Lightning Talks
+    - DevOps - Debbie
+    - TechPeople in May, 13 - TechPeople committee
+      - Previous examples
+      - Get talk ideas
+
+### Lunch Options
+
+- Himalayan
+- Annie's
+- Wally's
 ## February 2, 2017
   - Enterprise DW (Brian Krupski, Mark Skweres) [#13](https://github.umn.edu/code-people/meetings/issues/13) 30
   - Life at the Help Desk (Paul Honsey) [#5](https://github.umn.edu/code-people/meetings/issues/5) 20min (Jack will arrange)
