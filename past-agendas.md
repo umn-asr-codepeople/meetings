@@ -1,5 +1,11 @@
 # Past Meeting Agendas
 
+
+## April 6 (MC Davin)
+  - Peoplesoft Query as a Service - Jeremy Irrthum 20min [#6](https://github.umn.edu/code-people/meetings/issues/6) (confirmed)
+  - Ansible (Andrew Zenk and David Naughton) 20min (confirmed)
+  - Open Sourced Software at the U - Brad Carlson 25min [#21](https://github.umn.edu/code-people/meetings/issues/21) (confirmed)
+
 ## March 2, 2017
 
 ### MC: Ian
