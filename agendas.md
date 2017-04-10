@@ -1,10 +1,6 @@
 # Code People Monthly Meetings
 
 
-## April 6 (MC Davin)
-  - Peoplesoft Query as a Service - Jeremy Irrthum 20min [#6](https://github.umn.edu/code-people/meetings/issues/6) (confirmed)
-  - Ansible (Andrew Zenk and David Naughton) 20min (confirmed)
-  - Open Sourced Software at the U - Brad Carlson 25min [#21](https://github.umn.edu/code-people/meetings/issues/21) (confirmed)
   - Lightning Talks
     - What is a JSP Tag File? (Jack) -- could even be 10 mins 
     - Coderetreat Retrospective (Ian) - 10 min, max
