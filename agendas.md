@@ -13,7 +13,13 @@
     - Artifactory (Bearfoot/Jake)
 
 ## July 6, MC Bearfoot
-- Happy Hour @ Town Hall
+  - Happy Hour @ Town Hall
+ 
+## Aug 3, MC ?
+  - JSP Tag Libraries - OIT (Jack)
+  - Team Tools [#36](https://github.umn.edu/code-people/meetings/issues/36) - ASR (Ian)
+  - Campus Code Fest?
+  - Lightning talks
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
