@@ -6,7 +6,6 @@
     - Gentle Pen Testing - MJB 25min [#15](https://github.umn.edu/code-people/meetings/issues/15)
 
 ## June, 1 MC Chris M
-  - ~UmbraSearch (Chad, no longer confirmed?) [#7](https://github.umn.edu/code-people/meetings/issues/7)~
   - Meet OIT Integration - Chris D. (confirmed)
   - Swift - Colin McFadden [#11](https://github.umn.edu/code-people/meetings/issues/11) (confirmed)
   - Artifactory (Bearfoot/Jake - Jack will confirm this is ok)
