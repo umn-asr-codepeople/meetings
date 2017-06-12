@@ -11,7 +11,7 @@
   - Lightning talks
    
 ## Sept 7, MC ?
-  - Cloudera Hadoop in AWS - AHC-IS (Jason Kadrmas, Travis Noll) [#44](https://github.umn.edu/code-people/meetings/issues/44)
+  - Cloudera Hadoop in AWS - AHC-IS (Jason Kadrmas, Travis Noll) - confirmed [#44](https://github.umn.edu/code-people/meetings/issues/44)
   - ?
   - ?
   - Lightning Talks
