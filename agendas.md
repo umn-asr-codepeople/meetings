@@ -7,7 +7,7 @@
   - JSP Tag Libraries - OIT (Jack, 20mins)
   - Team Tools [#36](https://github.umn.edu/code-people/meetings/issues/36) - ASR (Ian)
   - Doug Finley (CESI)?
-  - Chad - React ?
+  - React [#43](https://github.umn.edu/code-people/meetings/issues/43) 20mins (Chad)
   - Lightning talks
    
 ## Sept 7, MC ?
