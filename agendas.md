@@ -1,7 +1,4 @@
 # Code People Monthly Meetings
-
-## July 6, MC Bearfoot
-  - Happy Hour @ Town Hall (4-6 PM)
  
 ## Aug 3, MC ?
   - JSP Tag Libraries - OIT (Jack, 20mins)
