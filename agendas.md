@@ -1,6 +1,6 @@
 # Code People Monthly Meetings
  
-## Aug 3, MC MJB
+## Aug 3, MC Ian
   - JSP Tag Libraries - OIT (Jack, 20mins)
   - Team Tools [#36](https://github.umn.edu/code-people/meetings/issues/36) - ASR (Ian, 15 min)
   - Explain Plan Introduction [#53](https://github.umn.edu/code-people/meetings/issues/53) - (Andy W, 15 min)
