@@ -26,9 +26,6 @@
 ## November
   - No meeting, TechPeople
 
-## December,
-  - Happy Hour
-
 ### Confirmed, not-yet-scheduled
   - CESI - Doug Finley (Davin is confirming)
   - Meet a Dev Group - ASR (Ian)
