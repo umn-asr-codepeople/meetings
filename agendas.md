@@ -8,7 +8,7 @@
   - Lightning talks
     - Committee members - Ian
     - Cargo Cult - John T.
-    - CCF - MJB
+    - CCF - Chad
    
 ## Sept 7, MC Chris D.
   - Cloudera Hadoop in AWS - AHC-IS (Jason Kadrmas, Travis Noll) - confirmed [#44](https://github.umn.edu/code-people/meetings/issues/44)
