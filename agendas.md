@@ -11,9 +11,11 @@
     - CCF - Chad
    
 ## Sept 7, MC Chris D.
+  - Announcements:
+    - Committee changes: what's required, time committment, etc
   - Cloudera Hadoop in AWS - AHC-IS (Jason Kadrmas, Travis Noll) - confirmed [#44](https://github.umn.edu/code-people/meetings/issues/44)
   - R/Data Science? [#48] (https://github.umn.edu/code-people/meetings/issues/48) - MJB is working with Alison
-  - OpenShift [#49] (https://github.umn.edu/code-people/meetings/issues/49) (Chris Dinger is confirming with Andrew)
+  - OpenShift [#49] (https://github.umn.edu/code-people/meetings/issues/49) (Andrew Zenk)
   - Lightning Talks
     - Give a Lightning Talk - Jack
       - Committee members here to assist
