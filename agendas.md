@@ -4,12 +4,12 @@
   - No meeting, TechPeople
 
 ## December
-  - Keys: synthetic, ordering (covering & redundancy), (Andy, not confirmed)
-  - Building a WebGL game in Electron using a custom built game controller, (Davin will follow-up)
-  - The New Class Search, Kendrick Erickson (Chris will follow-up)
+  - Keys: synthetic, ordering (covering & redundancy), Andy or ? (confirmed - 20 mins)
+  - Building a WebGL game in Electron using a custom built game controller, Jason (confirmed - 30 mins)
+  - The New Class Search, Kendrick Erickson (confirmed - 20 mins)
   
 ## January Happy Hour
-  - Ideas?
+  - Ideas? - Town Hall worked ok. Davin will handle reservations.
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
