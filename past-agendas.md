@@ -1,5 +1,11 @@
 # Past Meeting Agendas
 
+## October 6, MC ?
+  - Jack Brown MC
+  - CESI - Doug Finley
+  - Lightning Talks! Strict 5 minute limit
+    Presentations accessible on the web on all operating systems, z-link preferred
+
 ## Aug 3, MC Ian
   - JSP Tag Libraries - OIT (Jack, 20mins)
   - Team Tools [#36](https://github.umn.edu/code-people/meetings/issues/36) - ASR (Ian, 15 min)
