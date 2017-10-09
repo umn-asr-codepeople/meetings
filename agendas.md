@@ -1,12 +1,5 @@
 # Code People Monthly Meetings
  
-## October 6, MC ?
-  - Jack Brown MC
-  - CESI - Doug Finley
-  - Lightning Talks! Strict 5 minute limit
-    Presentations accessible on the web on all operating systems, z-link preferred
-     
-  
 ## November
   - No meeting, TechPeople
 
