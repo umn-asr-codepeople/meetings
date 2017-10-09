@@ -16,5 +16,8 @@
   - Meet a Dev Group - Libraries [David]
   - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
   
+## February
+  - R / data science / visualization - Alison (not confirmed)
+  
 # Code People Brown Bags
 
