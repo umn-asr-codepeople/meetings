@@ -14,15 +14,19 @@
   - Ideas? - Town Hall worked ok. Davin will handle reservations.
   
 ## February 1, 2018
-
+  - R / data science / visualization - Alison (not confirmed) [20 mins]
+  - LastPassify (ASR folks) [20 mins]
+  - ECAS Refactor -- Make an Application Modern (Jack, Kim D, Mike G) (not confirmed) [20 mins]
+  - Lightning Talks
+    - UMN People Lookup GEM - Robert
+    
+## March 1, 2018 
+ - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
   - Meet a Dev Group - Libraries [David]
   - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
-  
-## February
-  - R / data science / visualization - Alison (not confirmed)
   
 # Code People Brown Bags
 
