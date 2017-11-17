@@ -4,7 +4,7 @@
   - No meeting, TechPeople
 
 ## December 7, 2017 (MC: Davin}
-  - Keys: synthetic, ordering (covering & redundancy), Andy or ? (confirmed - 20 mins)
+  - Keys: synthetic, ordering (covering & redundancy), Ben Hosch (confirmed - 20 mins)
   - Building a WebGL game in Electron using a custom built game controller, Jason (confirmed - 30 mins)
   - The New Class Search, Kendrick Erickson (confirmed - 20 mins)
   - Lightning Talks
