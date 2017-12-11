@@ -9,7 +9,7 @@
   - The New Class Search, Kendrick Erickson (confirmed - 20 mins)
     
 ## January 4, 2018: Happy Hour
-  - Ideas? - Town Hall worked ok. Davin will handle reservations.
+  - Town Hall, Davin handling reservations.
   
 ## February 1, 2018
   - R / data science / visualization - Alison (not confirmed) [20 mins]
