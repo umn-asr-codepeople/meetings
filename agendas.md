@@ -21,16 +21,15 @@
     
 ## March 1, 2018 
  - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
+
+## April 2018
+ - No meeting, TechPeople ? 
  
-## April/May 2018
+## May 2018
  - Database Upgrades (tentative) 
  - State of DevOps (tentative)
  - Kafka (tentative)
  - How to use Artifactory (tentative)
- 
-## April/May 2018
- - No meeting, TechPeople ?
- - Might be April or May
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
