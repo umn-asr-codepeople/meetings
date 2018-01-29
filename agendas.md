@@ -1,35 +1,39 @@
 # Code People Monthly Meetings
- 
-## November
-  - No meeting, TechPeople
-
-## December 7, 2017 (MC: Davin}
-  - Keys: synthetic, ordering (covering & redundancy), Ben Hosch (confirmed - 20 mins)
-  - Building a WebGL game in Electron using a custom built game controller, Jason (confirmed - 30 mins)
-  - The New Class Search, Kendrick Erickson (confirmed - 20 mins)
-    
-## January 4, 2018: Happy Hour
-  - Town Hall, Davin handling reservations.
-  
-## February 1, 2018
-  - R / data science / visualization - Alison (not confirmed) [20 mins]
+   
+## February 1, 2018 (MC - Chris)
+  - R / data science / visualization - Alison (not confirmed - Davin will confirm, Artifactory mob talk as a backup) [20 mins]
   - LastPassify (ASR folks) [20 mins]
-  - ECAS Refactor -- Make an Application Modern (Jack, Kim D, Mike G) (not confirmed) [20 mins]
+  - ECAS Refactor -- Make an Application Modern (Jack, Kim D, Mike G) (confirmed) [20 mins]
   - Lightning Talks
     - UMN People Lookup GEM - Robert
-    - Davin - asking for stories of successes because of Code People from members
+    - Davin - Code People Business
+      - evelator pitch help asking for stories of successes because of Code People from members
+        - TODO: setup page on github.io
+        - TODO: google form
+        - TODO: committee member make entry in form
+      - reminder about submitting talk ideas (does not have to be you)
+    - Database Upgrade (Andy/DBAs)
+    - Extended VarChar & CLOB conversion (Andy/DBAs)
     
 ## March 1, 2018 
  - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
-
+   - TODO: Notes from 1st session (Jack)
+   - TODO: Schedule next session (Robert)
+   
 ## April 2018
  - No meeting, TechPeople ? 
  
 ## May 2018
- - Database Upgrades (tentative) 
- - State of DevOps (tentative)
- - Kafka (tentative)
- - How to use Artifactory (tentative)
+ - Database Upgrades (tentative - Andy) 
+ - Kafka (tentative - ASR)
+ - How to use Artifactory (tentative - Andrew)
+ - Lightning Talks
+   - Pitch for DevOps UMN
+   - GitHub Features: Merge and Conflict Resolution (Jack)
+
+## June 2018
+  - DevOps UMN Recap/State of DevOps
+  - Why would you put JSON in your relational DB? (Colin McFadden)
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
