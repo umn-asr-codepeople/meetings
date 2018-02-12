@@ -11,10 +11,11 @@
 ## May 2018
  - Database Upgrades (tentative - Andy) 
  - Kafka (tentative - ASR)
- - How to use Artifactory (tentative - Andrew)
+ - How to use Artifactory (Andrew)
  - Lightning Talks
    - Pitch for DevOps UMN
    - GitHub Features: Merge and Conflict Resolution (Jack)
+   - Code People Business - Davin (tentative)
 
 ## June 2018
   - DevOps UMN Recap/State of DevOps
