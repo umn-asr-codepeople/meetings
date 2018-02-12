@@ -1,5 +1,14 @@
 # Past Meeting Agendas
 
+## February 1, 2018 (MC - Chris)
+  - R / data science / visualization - Alison (not confirmed - Davin will confirm, Artifactory mob talk as a backup) [20 mins]
+  - LastPassify (ASR folks) [20 mins]
+  - ECAS Refactor -- Make an Application Modern (Jack, Kim D, Mike G) (confirmed) [20 mins]
+  - Lightning Talks
+    - UMN People Lookup GEM - Robert
+    - Database Upgrade (Andy/DBAs)
+    - Extended VarChar & CLOB conversion (Andy/DBAs)
+
 ## October 6, MC ?
   - Jack Brown MC
   - CESI - Doug Finley
