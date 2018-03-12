@@ -23,6 +23,7 @@
 
 ## 2 August 2018
  - [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72)
+ - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71)
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
