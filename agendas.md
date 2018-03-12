@@ -9,7 +9,7 @@
  - How to use Artifactory (Andrew, Jake) (25 minutes)
  - Lightbuld recap (team) (15 minutes)
  - Lightning Talks (5 minutes each)
-   - Pitch for DevOps UMN (who?)
+   - Pitch for DevOps UMN (Andrew)
    - GitHub Features: Merge and Conflict Resolution (Jack)
    - Code People Business - Davin (tentative)
 
