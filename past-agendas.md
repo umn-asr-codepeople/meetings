@@ -1,5 +1,14 @@
 # Past Meeting Agendas
 
+## February 1, 2018 (MC - Chris)
+  - R / data science / visualization - Alison (not confirmed - Davin will confirm, Artifactory mob talk as a backup) [20 mins]
+  - LastPassify (ASR folks) [20 mins]
+  - ECAS Refactor -- Make an Application Modern (Jack, Kim D, Mike G) (confirmed) [20 mins]
+  - Lightning Talks
+    - UMN People Lookup GEM - Robert
+    - Database Upgrade (Andy/DBAs)
+    - Extended VarChar & CLOB conversion (Andy/DBAs)
+ 
 ## January 4, 2018: Happy Hour
   - Town Hall, Davin handling reservations.
   - appoximately 15 people showed
