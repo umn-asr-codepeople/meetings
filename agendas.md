@@ -18,6 +18,12 @@
  - DevOps UMN Recap/State of DevOps
  - Why would you put JSON in your relational DB? (Colin McFadden)
 
+## 5 July 2018
+- Happy Hour
+
+## 2 August 2018
+ - [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72)
+
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
   - Meet a Dev Group - Libraries [David]
