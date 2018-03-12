@@ -1,10 +1,5 @@
 # Code People Monthly Meetings
     
-## March 1, 2018 
- - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
-   - TODO: Notes from 1st session (Jack)
-   - TODO: Schedule next session (Robert)
-   
 ## April 2018
  - No meeting, TechPeople ? 
  
