@@ -1,5 +1,10 @@
 # Past Meeting Agendas
 
+## March 1, 2018 
+ - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
+   - TODO: Notes from 1st session (Jack)
+   - TODO: Schedule next session (Robert)
+
 ## February 1, 2018 (MC - Chris)
   - R / data science / visualization - Alison (not confirmed - Davin will confirm, Artifactory mob talk as a backup) [20 mins]
   - LastPassify (ASR folks) [20 mins]
