@@ -8,6 +8,18 @@
     - UMN People Lookup GEM - Robert
     - Database Upgrade (Andy/DBAs)
     - Extended VarChar & CLOB conversion (Andy/DBAs)
+ 
+## January 4, 2018: Happy Hour
+  - Town Hall, Davin handling reservations.
+  - appoximately 15 people showed
+
+## December 7, 2017 (MC: Davin}
+  - Keys: synthetic, ordering (covering & redundancy), Ben Hosch (confirmed - 20 mins)
+  - Building a WebGL game in Electron using a custom built game controller, Jason (confirmed - 30 mins)
+  - The New Class Search, Kendrick Erickson (confirmed - 20 mins)
+
+## November
+  - No meeting, TechPeople
 
 ## October 6, MC ?
   - Jack Brown MC
@@ -15,16 +27,6 @@
   - Lightning Talks! Strict 5 minute limit
     Presentations accessible on the web on all operating systems, z-link preferred
 
-## Aug 3, MC Ian
-  - JSP Tag Libraries - OIT (Jack, 20mins)
-  - Team Tools [#36](https://github.umn.edu/code-people/meetings/issues/36) - ASR (Ian, 15 min)
-  - Explain Plan Introduction [#53](https://github.umn.edu/code-people/meetings/issues/53) - (Andy W, 15 min)
-  - Webpack and JS modules [#43](https://github.umn.edu/code-people/meetings/issues/43) 20mins (Chad)
-  - Lightning talks
-    - Committee members - Ian
-    - Cargo Cult - John T.
-    - CCF - Chad
-   
 ## Sept 7, MC Chris D.
   - Announcements:
     - Committee changes: what's required, time committment, etc
@@ -36,7 +38,16 @@
       - Committee members here to assist
     - Indexes - Covering & Redundancy [#53](https://github.umn.edu/code-people/meetings/issues/53) - (Ian)
     - Column Ordering [#53](https://github.umn.edu/code-people/meetings/issues/53) - (Andy)
-  
+
+## Aug 3, MC Ian
+  - JSP Tag Libraries - OIT (Jack, 20mins)
+  - Team Tools [#36](https://github.umn.edu/code-people/meetings/issues/36) - ASR (Ian, 15 min)
+  - Explain Plan Introduction [#53](https://github.umn.edu/code-people/meetings/issues/53) - (Andy W, 15 min)
+  - Webpack and JS modules [#43](https://github.umn.edu/code-people/meetings/issues/43) 20mins (Chad)
+  - Lightning talks
+    - Committee members - Ian
+    - Cargo Cult - John T.
+    - CCF - Chad  
 
 ## April 6 (MC Davin)
   - Peoplesoft Query as a Service - Jeremy Irrthum 20min [#6](https://github.umn.edu/code-people/meetings/issues/6) (confirmed)
