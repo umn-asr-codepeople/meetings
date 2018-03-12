@@ -1,20 +1,22 @@
 # Code People Monthly Meetings
     
 ## April 2018
- - No meeting, TechPeople ? 
+ - No meeting, TechPeople!
+ - 11 April 2018 -- Mayo Auditorium
  
-## May 2018
- - Database Upgrades (tentative - Andy) 
- - Kafka (tentative - ASR)
- - How to use Artifactory (Andrew)
- - Lightning Talks
-   - Pitch for DevOps UMN
+## May 2018 (MC Jack)
+ - Database Upgrades (Andy)  (20 minutes)
+ - How to use Artifactory (Andrew, Jake) (25 minutes)
+ - Lightbuld recap (team) (15 minutes)
+ - Lightning Talks (5 minutes each)
+   - Pitch for DevOps UMN (who?)
    - GitHub Features: Merge and Conflict Resolution (Jack)
    - Code People Business - Davin (tentative)
 
 ## June 2018
-  - DevOps UMN Recap/State of DevOps
-  - Why would you put JSON in your relational DB? (Colin McFadden)
+ - Kafka (tentative - ASR)
+ - DevOps UMN Recap/State of DevOps
+ - Why would you put JSON in your relational DB? (Colin McFadden)
 
 ### Confirmed, not-yet-scheduled
   - Meet a Dev Group - ASR (Ian)
@@ -22,4 +24,4 @@
   - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
   
 # Code People Brown Bags
-
+- "Lightbulbs, cont."
