@@ -9,7 +9,7 @@
  - No meeting, TechPeople ? 
  
 ## May 2018
- - Database Upgrades (tentative - Andy) 
+ - Database Upgrades (Andy, Ben Hosch) 
  - Kafka (tentative - ASR)
  - How to use Artifactory (Andrew)
  - Lightning Talks
