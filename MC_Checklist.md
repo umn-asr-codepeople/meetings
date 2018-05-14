@@ -3,10 +3,10 @@
 - [ ] Update code-people.github.io based on agenda
 
 ## One week before
+- [ ] Verify room is still available in google calendar
 - [ ] Send announcement to Code People email list (based on TBD template).   
 - [ ] Send announcement on Code People Slack channel.  
 - [ ] For both - remind people of http://z.umn.edu/lightningtalks. 
-
 
 ## Before meeting:
 - [ ] Confirm all presenters are present!  
