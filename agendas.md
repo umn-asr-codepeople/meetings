@@ -1,10 +1,11 @@
 # Code People Monthly Meetings
     
-## June 2018
- - Kafka (tentative - ASR)
- - DevOps UMN Recap/State of DevOps
+## 7 June 2018 (MC Jake)
+ - Kafka (Davin)
+ - Accessible Checkins at the DRC (Tonu)
  - Why would you put JSON in your relational DB? (Colin McFadden)
  - Lightning Talks
+   - DevOps UMN Recap/State of DevOps
    - GitHub Features: Merge and Conflict Resolution (Jack)
    - Code People Business - Davin (tentative)
 
