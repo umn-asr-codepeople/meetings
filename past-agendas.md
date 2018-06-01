@@ -1,5 +1,16 @@
 # Past Meeting Agendas
 
+## May 2018 (MC Jack)
+ - Database Upgrades (Andy)  (20 minutes)
+ - How to use Artifactory (Andrew, Jake) (25 minutes)
+ - Lightbulb recap (team) (15 minutes)
+ - Lightning Talks (5 minutes each)
+   - Pitch for DevOps UMN (Andrew)
+
+## April 2018
+ - No meeting, TechPeople!
+ - 11 April 2018 -- Mayo Auditorium
+
 ## March 1, 2018 
  - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
    - TODO: Notes from 1st session (Jack)
