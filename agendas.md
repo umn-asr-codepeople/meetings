@@ -1,13 +1,14 @@
 # Code People Monthly Meetings
-    
+
 ## 7 June 2018 (MC Jake)
- - Kafka (Davin)
- - Accessible Checkins at the DRC (Tonu)
- - Why would you put JSON in your relational DB? (Colin McFadden)
- - Lightning Talks
-   - DevOps UMN Recap/State of DevOps
-   - GitHub Features: Merge and Conflict Resolution (Jack)
-   - Code People Business - Davin (tentative)
+
+ - **Kafka: A Date with Destiny (One)**, [Davin Lagerroos](https://goo.gl/5NNMjE), *(20 minutes)*
+ - **Accessible Checkins at the DRC**, [Tonu Mikk](https://goo.gl/CfmKAG), *(30 minutes)*
+ - **Why would you put JSON in your relational DB?**, [Colin McFadden](https://goo.gl/aW8LHv), *(20 minutes)*
+ - lightning talks
+   - **DevOps UMN Recap / The State of the DevOps**, TBA
+   - **GitHub Features: Merge and Conflict Resolution**, [Jack Brown](https://goo.gl/hWRFkR)
+   - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
 
 ## 5 July 2018
 - Happy Hour
@@ -24,6 +25,6 @@
   - Meet a Dev Group - ASR (Ian)
   - Meet a Dev Group - Libraries [David]
   - Meet Humphrey IT - Linda Dick (Ian needs to confirm that she wants to give this talk)
-  
+
 # Code People Brown Bags
 - "Lightbulbs, cont."
