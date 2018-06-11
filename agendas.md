@@ -6,6 +6,7 @@
 
 ## 2 August 2018
 - [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72)
+- [Meet the Salesforce Team](https://github.umn.edu/code-people/meetings/issues/68) - tentative
 - lightning talks
   - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
 
