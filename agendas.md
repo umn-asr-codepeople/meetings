@@ -5,13 +5,15 @@
   - Surly
 
 ## 2 August 2018
- - [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72)
- - [Docker Developer/DevOps Talk](https://github.umn.edu/code-people/meetings/issues/79)
- - lightning talks
-   - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
+- [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72)
+- lightning talks
+  - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
 
 ## 6 September 2018
 - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71)
+
+## October 2018
+- [Docker Developer/DevOps Talk](https://github.umn.edu/code-people/meetings/issues/79)
 
 ## 2 May 2019
 **Walter 402 not available**
