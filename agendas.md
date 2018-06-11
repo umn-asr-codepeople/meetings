@@ -1,15 +1,5 @@
 # Code People Monthly Meetings
 
-## 7 June 2018 (MC Jake)
-
- - **Kafka: A Date with Destiny (One)**, [Davin Lagerroos](https://goo.gl/5NNMjE), *(20 minutes)*
- - **Accessible Checkins at the DRC**, [Tonu Mikk](https://goo.gl/CfmKAG), *(30 minutes)*
- - **Why would you put JSON in your relational DB?**, [Colin McFadden](https://goo.gl/aW8LHv), *(20 minutes)*
- - lightning talks
-   - **DevOps UMN Recap / The State of the DevOps**, TBA
-   - **GitHub Features: Merge and Conflict Resolution**, [Jack Brown](https://goo.gl/hWRFkR)
-   - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
-
 ## 5 July 2018
 - Happy Hour
 
