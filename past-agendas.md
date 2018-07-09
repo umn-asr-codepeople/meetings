@@ -1,5 +1,9 @@
 # Past Meeting Agendas
 
+## 5 July 2018 (MC Chris)
+- Happy Hour
+  - Surly
+
 ## 7 June 2018 (MC Jake)
 
  - **Kafka: A Date with Destiny (One)**, [Davin Lagerroos](https://goo.gl/5NNMjE), *(20 minutes)*

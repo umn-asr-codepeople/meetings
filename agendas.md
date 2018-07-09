@@ -1,9 +1,5 @@
 # Code People Monthly Meetings
 
-## 5 July 2018 (MC Chris)
-- Happy Hour
-  - Surly
-
 ## 2 August 2018
 - [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72)
 - [Meet the Salesforce Team](https://github.umn.edu/code-people/meetings/issues/68) - tentative
