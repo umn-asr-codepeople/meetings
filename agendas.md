@@ -6,6 +6,7 @@
 - [Meet the Salesforce Team](https://github.umn.edu/code-people/meetings/issues/68) - tentative
 - lightning talks
   - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
+  - [Signing Git Commits](https://github.umn.edu/code-people/meetings/issues/81) John Trammel
 
 ## 6 September 2018
 - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71)
