@@ -7,13 +7,13 @@
 - Lightning talks
   - Templates in Service Now (Andy Wattenhoffer)
 
-## October 2018
+## 4 October 2018
 - [Docker Developer/DevOps Talk](https://github.umn.edu/code-people/meetings/issues/79)
 
-## November 2018
-- Tech People?
+## 15 November 2018
+- Tech People!
 
-## December 2018
+## 6 December 2018
 - Docker at Target - Ben Zvan
 
 ## 2 May 2019
