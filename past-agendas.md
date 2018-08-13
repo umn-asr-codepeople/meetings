@@ -1,4 +1,13 @@
-# Past Meeting Agendas
+# Past Meeting Agenda
+
+
+## 2 August 2018 (MC - Chris)
+- [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72) - Tony Thomas (confirmed)
+- Meet the Policy Program (Office of Institutional Compliance) (confirmed)
+- [Meet the Salesforce Team](https://github.umn.edu/code-people/meetings/issues/68) - tentative
+- lightning talks
+  - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
+  - [Signing Git Commits](https://github.umn.edu/code-people/meetings/issues/81) John Trammel
 
 ## 5 July 2018 (MC Chris)
 - Happy Hour
