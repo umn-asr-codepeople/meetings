@@ -1,11 +1,14 @@
 # Code People Monthly Meetings
 
 ## 6 September 2018 (Andrew Zenk MC)
-- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) (ASR)
 - [R / Data Viz Talk/Geo data](https://github.umn.edu/code-people/meetings/issues/48) - tentative (Allison - who to confirm?)
 - [Cargo Cult](https://github.umn.edu/code-people/meetings/issues/52) (John Trammel)
+- Open Space Discussions
+  - Software Development Workflows
+  - Non-Happy Hour Based Social Event Brainstorming
 - Lightning talks
   - Templates in Service Now (Andy Wattenhoffer)
+  
 
 ## 4 October 2018
 - [Docker Developer/DevOps Talk](https://github.umn.edu/code-people/meetings/issues/79)
@@ -14,6 +17,7 @@
 - Tech People!
 
 ## 6 December 2018
+- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR)
 - Docker at Target - Ben Zvan
 
 ## 2 May 2019
