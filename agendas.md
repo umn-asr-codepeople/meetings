@@ -1,24 +1,23 @@
 # Code People Monthly Meetings
 
-## 2 August 2018 (MC - Chris)
-- [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72) - Tony Thomas (confirmed)
-- Meet the Policy Program (Office of Institutional Compliance) (confirmed)
-- [Meet the Salesforce Team](https://github.umn.edu/code-people/meetings/issues/68) - tentative
-- lightning talks
-  - **Code People Business**, [Davin Lagerroos](https://goo.gl/5NNMjE) *(tentative)*
-  - [Signing Git Commits](https://github.umn.edu/code-people/meetings/issues/81) John Trammel
+## 6 September 2018 (Andrew Zenk MC)
+- [NoSQL Database Explorations](https://github.umn.edu/code-people/meetings/issues/48) (Alison Link)
+- [Cargo Cult](https://github.umn.edu/code-people/meetings/issues/52) (John Trammel)
+- Open Space Discussions
+  - Software Development Workflows
+  - Non-Happy Hour Based Social Event Brainstorming
+- Lightning talks
+  - Templates in Service Now (Andy Wattenhoffer)
+  
 
-## 6 September 2018
-- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71)
-- [R / Data Viz Talk/Geo data](https://github.umn.edu/code-people/meetings/issues/48) - tentative
-
-## October 2018
+## 4 October 2018
 - [Docker Developer/DevOps Talk](https://github.umn.edu/code-people/meetings/issues/79)
 
-## November 2018
-- Tech People?
+## 15 November 2018
+- Tech People!
 
-## December 2018
+## 6 December 2018
+- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR)
 - Docker at Target - Ben Zvan
 
 ## 2 May 2019
