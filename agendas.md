@@ -1,7 +1,7 @@
 # Code People Monthly Meetings
 
 ## 6 September 2018 (Andrew Zenk MC)
-- [R / Data Viz Talk/Geo data](https://github.umn.edu/code-people/meetings/issues/48) - tentative (Allison - who to confirm?)
+- [NoSQL Database Explorations](https://github.umn.edu/code-people/meetings/issues/48) (Alison Link)
 - [Cargo Cult](https://github.umn.edu/code-people/meetings/issues/52) (John Trammel)
 - Open Space Discussions
   - Software Development Workflows
