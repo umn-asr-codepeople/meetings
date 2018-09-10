@@ -1,5 +1,13 @@
 # Past Meeting Agenda
 
+## 6 September 2018 (Andrew Zenk MC)
+- [NoSQL Database Explorations](https://github.umn.edu/code-people/meetings/issues/48) (Alison Link)
+- [Cargo Cult](https://github.umn.edu/code-people/meetings/issues/52) (John Trammel)
+- Open Space Discussions
+  - Software Development Workflows
+  - Non-Happy Hour Based Social Event Brainstorming
+- Lightning talks
+  - Templates in Service Now (Andy Wattenhoffer)
 
 ## 2 August 2018 (MC - Chris)
 - [Modern JavaScript](https://github.umn.edu/code-people/meetings/issues/72) - Tony Thomas (confirmed)
