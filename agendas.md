@@ -1,10 +1,5 @@
 # Code People Monthly Meetings
   
-## 4 October 2018 (Magdalena Cruz Ramirez - MC)
-- What is Docker and “Why Should I Care?” (15 - 20 min) (Andrew Zenk)
-- “Docker in Development with Docker Compose” (30 min) (Ian / Remy / Somebody from CLA)
-- CLA Undergraduate Education - Kube / Gitlab Overview (30 min) (Kendrick Erickson)
-
 ## 15 November 2018
 - Tech People!
 
