@@ -6,7 +6,7 @@
 ## 6 December 2018
 - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR)
 - Docker at Target - Ben Zvan
-- Experts @ UMN Project - David Naughton - confirmed
+- Experts@Minnesota Project - David Naughton - confirmed
 
 ## 2 May 2019
 **Walter 402 not available**
