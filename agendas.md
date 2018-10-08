@@ -7,6 +7,7 @@
 - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR)
 - Docker at Target - Ben Zvan
 - Experts@Minnesota Project - David Naughton - confirmed
+- Salesforce side of Destiny One Integration - Eric Fournier - confirmed
 
 ## 2 May 2019
 **Walter 402 not available**
