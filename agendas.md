@@ -1,16 +1,27 @@
 # Code People Monthly Meetings
   
-
-## 3 January 2019 (Jack to reserve [15-20])
+## 3 January 2019 (Jack to reserve [15-20] - Jack "MC")
 - Happy Hour @ Town Hall Brewery 4:00-6:30 
 
-## 7 February 2019
+## 17 January 2018 9:30-11:00 Bruininks 114
+- First annual Coffee Hour!
+- Discussion topic(s)?
+- Davin to check with Ian about how to pay for stuff
+- order bagels and coffee (Brueggers, Einstein/Carabou?)
+- Create invitation for online RSVP (simple goodle form - check for )
+
+## 7 February 2019 (MC Davin)
 - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR) (20 minutes) 
 - [IPv6 overview and using IPv6 at the U](https://github.umn.edu/code-people/meetings/issues/88) - tentative
--
+- [Lessons Learned in Switching App Frameworks](https://github.umn.edu/code-people/meetings/issues/104) - tentative (Chris Meyer) (20 minutes)
 - Lightning Talks
-  - [Overview of Roundup Issue Tracker](https://github.umn.edu/code-people/meetings/issues/92) - tentative - Tonu Mikk
   - ???
+
+## 7 March 2019
+- [Using Google Calendar API and Google OAuth](https://github.umn.edu/code-people/meetings/issues/105) - tentative (Tonu Mikk) (20 minutes)
+- Using Git Branching and Build Pipelines - Jack Brown (20 mins?)
+- 
+- Lightning Talks 
 
 ## 2 May 2019
 **Walter 402 not available**
