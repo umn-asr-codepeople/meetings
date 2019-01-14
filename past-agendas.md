@@ -1,5 +1,9 @@
 # Past Meeting Agenda
   
+
+## 3 January 2019 (Jack to reserve [15-20] - Jack "MC")
+- Happy Hour @ Town Hall Brewery 4:00-6:30   
+  
 ## 15 November 2018
 - Tech People!
 
