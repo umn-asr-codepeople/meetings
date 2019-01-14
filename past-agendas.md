@@ -1,5 +1,14 @@
 # Past Meeting Agenda
+  
+## 15 November 2018
+- Tech People!
 
+## 6 December 2018: MC Eva Young
+- [Experts@Minnesota Project](https://github.umn.edu/code-people/meetings/issues/100) - David Naughton - confirmed  (20mins)
+- [Salesforce side of Destiny One Integration](https://github.umn.edu/code-people/meetings/issues/101) - Eric Fournier - confirmed (20 mins)
+- kubernetes at Target - Ben Zvan (35 mins)
+- Lightning Talks (15 mins)
+  - ???
 ## 4 October 2018 (Magdalena Cruz Ramirez - MC)
 - What is Docker and “Why Should I Care?” (15 - 20 min) (Andrew Zenk)
 - “Docker in Development with Docker Compose” (30 min) (Ian / Remy / Somebody from CLA)
