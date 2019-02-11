@@ -13,7 +13,7 @@
   - Scanning and OCR (Tonu)
 
 ## 4 April 2019
-- MSI - Mike Milligan (tentative)
+- MSI - Mike Milligan (tentative Brian to follow up)
 - [IPv6 overview and using IPv6 at the U](https://github.umn.edu/code-people/meetings/issues/88) - tentative  (Jake?)
 
 ## 2 May 2019
