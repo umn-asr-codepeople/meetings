@@ -1,6 +1,19 @@
 # Past Meeting Agenda
   
 
+## 7 February 2019 (MC Davin)
+- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR) (20 minutes) 
+- [Using Google Calendar API and Google OAuth](https://github.umn.edu/code-people/meetings/issues/105) - tentative (Tonu Mikk) (20 minutes)
+- Lightning Talks
+  - ???
+
+## 17 January 2018 9:30-11:00 Bruininks 114
+- First annual Coffee Hour!
+- Discussion topic(s)?
+- Davin to check with Ian about how to pay for stuff
+- order bagels and coffee (Brueggers, Einstein/Carabou?)
+- Create invitation for online RSVP (simple goodle form - check for )
+
 ## 3 January 2019 (Jack to reserve [15-20] - Jack "MC")
 - Happy Hour @ Town Hall Brewery 4:00-6:30   
   
