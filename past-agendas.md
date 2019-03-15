@@ -1,5 +1,16 @@
 # Past Meeting Agenda
   
+## 7 March 2019 (MC Tonu)
+- [Lessons Learned in Switching App Frameworks](https://github.umn.edu/code-people/meetings/issues/104) - confirmed (Chris Meyer) (20 minutes)
+- Oracle Java Licensing Open Discussion - (Jake Facilitate, Josh Wiggins to frame problem)
+  - outline the licensing problem
+  - outline the java version problem
+  - offer stories
+  - get feedback from room
+- Using Git Branching and Build Pipelines - Jack Brown (20 mins?)
+- Lightning Talks
+  - Code People Business (Davin)
+  - Scanning and OCR (Tonu)
 
 ## 7 February 2019 (MC Davin)
 - [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR) (20 minutes) 
