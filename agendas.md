@@ -14,7 +14,7 @@ No Meeting - Tech People on April 30
 - Talk Coordinator: Jack
 - Issue Responder: Tonu
 
-## July 3 (? - This is a Wednesday) Happy Hour
+## July 3 (? - This is a Wednesday) Happy Hour - Looking at Surly
 
 ## August 1
 - Option 1: WIT Takeover?
