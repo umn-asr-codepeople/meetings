@@ -1,5 +1,15 @@
 # Past Meeting Agenda
-  
+
+## 4 April 2019
+- [The Cheaters' Guide to Docker on VMs - ISRDI](https://github.umn.edu/code-people/meetings/issues/118) (Willy Lee - confirmed)
+- [Technology Portfolio](https://github.umn.edu/code-people/meetings/issues/117) (Larry Storey
+- confirmed)
+- Lightning Talks
+  - Accessibility False Positives (Eva)
+- MC: Jack
+- Talk Coordinator: Davin
+- Issue Responder: Eva
+
 ## 7 March 2019 (MC Tonu)
 - [Lessons Learned in Switching App Frameworks](https://github.umn.edu/code-people/meetings/issues/104) - confirmed (Chris Meyer) (20 minutes)
 - Oracle Java Licensing Open Discussion - (Jake Facilitate, Josh Wiggins to frame problem)
