@@ -5,7 +5,7 @@
 No Meeting - Tech People on April 30
 
 ## June 6 2019
-- [Building a Canvas LTI](https://github.umn.edu/code-people/meetings/issues/108) - Colin McFaddon (tentative)
+- [Getting started building an LTI](https://github.umn.edu/code-people/meetings/issues/108) - Colin McFadden (confirmed)
 - [Using Docker for Development](https://github.umn.edu/code-people/meetings/issues/124) - Travis Sobeck (tentative)
 - [The anatomy of the testing request form](https://github.umn.edu/code-people/meetings/issues/94)
 - Lightning Talks
@@ -13,6 +13,14 @@ No Meeting - Tech People on April 30
 - MC: Davin
 - Talk Coordinator: Jack
 - Issue Responder: Tonu
+
+
+### Getting started building an LTI
+- Colin McFadden (Technology Architect | LATIS)
+`
+This talk will explore the Learning Tools Interoperability (LTI) technology, which allows for third party apps to extend a learning management platform like Canvas.  LTI can be incredibly overwhelming, but it doesn’t have to be - you can build simple LTI integration into your app without needing to become an LTI expert.
+`
+
 
 ## July 3 (? - This is a Wednesday) Happy Hour - Looking at Surly
 
