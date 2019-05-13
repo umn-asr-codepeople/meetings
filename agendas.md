@@ -5,6 +5,9 @@
 No Meeting - Tech People on April 30
 
 ## June 6 2019
+
+**Location change - Bruininks 131B**
+
 - 9:30 - Introductions
 - 9:35 - [Getting started building an LTI](https://github.umn.edu/code-people/meetings/issues/108) - Colin McFadden (confirmed)
 - 9:55 - [Using Docker for Development and Deployment of Off the Shelf Software](https://github.umn.edu/code-people/meetings/issues/124) - Travis Sobeck (confirmed) 
@@ -35,8 +38,8 @@ This talk will explore the Learning Tools Interoperability (LTI) technology, whi
 ## July 3 (? - This is a Wednesday) Happy Hour - Looking at Surly
 
 ## August 1
-- Option 1: WIT Takeover?
-- Option 2: All Lightening Talks ?
+- Option 1: WIT Takeover? - Will hear from WIT later in May
+- Option 2: All Lightning Talks - announce at June meeting if this is our plan
 
 ## 7 May 2020
 **Walter 402 not available**
