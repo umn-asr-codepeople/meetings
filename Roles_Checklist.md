@@ -20,6 +20,10 @@
 - [ ] Call for lightning talks.   
 - [ ] Ask for future talk ideas (can just be requests, committee will try to figure out who can give the talk). 
 
+# Coffee Wrangler
+## One Week Before Code-People Meetings
+- [ ] Order coffee. See the "Ordering Coffee" document in Instructions folder of the Code People Committee team drive
+
 # Talk Coordinator Checklist for Code People meetings
 ## After Committee Meeting
 - [ ] Reach out to the contacts on the agenda to confirm the topic and who is giving the talk.
