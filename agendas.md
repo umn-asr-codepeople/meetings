@@ -5,10 +5,10 @@
 ## August 1 2019
 
 - 9:30 - Introductions
-- 9:35 - ?
-- 9:55 - ? 
+- 9:35 - [Demo CLA Promotion and Tenure Dossier Builder Tool](https://github.umn.edu/code-people/meetings/issues/135) - (confirmed)
+- 9:55 - [Creating a Safe Code Review Space](https://github.umn.edu/code-people/meetings/issues/130) - (confirmed)
 - 10:20 - Break
-- 10:25 - ?
+- 10:25 - [Linux Performance Metrics](https://github.umn.edu/code-people/meetings/issues/127)
 - 10:40 Lightning Talks
    - Drupal Site Management (Jim Hart) 
    
