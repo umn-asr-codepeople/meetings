@@ -1,5 +1,25 @@
 # Past Meeting Agenda
 
+## June 6 2019
+
+**Location change - Bruininks 131B**
+
+- 9:30 - Introductions
+- 9:35 - [Getting started building an LTI](https://github.umn.edu/code-people/meetings/issues/108) - Colin McFadden (confirmed)
+- 9:55 - [Using Docker for Development and Deployment of Off the Shelf Software](https://github.umn.edu/code-people/meetings/issues/124) - Travis Sobeck (confirmed) 
+- 10:20 - Break
+- 10:25 - [How It Works: The Anatomy of the Testing Request Form](https://github.umn.edu/code-people/meetings/issues/94) - Tonu Mikk (Confirmed)
+- 10:40 Lightning Talks
+   - Drupal Site Management (Jim Hart) 
+  
+Roles:
+- MC: Davin
+- Talk Coordinator: Jack
+- Issue Responder: Tonu
+
+## 2 May 2019
+No Meeting - Tech People on April 30
+
 ## 4 April 2019
 - [The Cheaters' Guide to Docker on VMs - ISRDI](https://github.umn.edu/code-people/meetings/issues/118) (Willy Lee - confirmed)
 - [Technology Portfolio](https://github.umn.edu/code-people/meetings/issues/117) (Larry Storey
