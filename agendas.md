@@ -18,7 +18,7 @@ Roles:
 ## October 3 2019
 
 - 9:30 - Introductions
-- 9:35 - [Meet a Dev Group - AHC](https://github.umn.edu/code-people/meetings/issues/19) - (tentative)
+- 9:35 - [Meet a Dev Group - AHC](https://github.umn.edu/code-people/meetings/issues/19) - (confirmed)
 - 9:55 - [Data with ASR](https://github.umn.edu/code-people/meetings/issues/115) - (tentative)
 - 10:10 - Break
 - 10:20 - ?
