@@ -3,12 +3,12 @@
 ## September 5 2019
 
 - 9:30 - Introductions
-- 9:35 - ?
-- 9:55 - [Java Licensing Discussion](https://github.umn.edu/code-people/meetings/issues/119) - (tentative)
+- 9:35 - [DB Column Ordering and Table Design](https://github.umn.edu/code-people/meetings/issues/53) - (confirmed)
+- 9:50 - [Java Licensing Discussion](https://github.umn.edu/code-people/meetings/issues/119) - (tentative)
 - 10:10 - Break
 - 10:20 - [Git Open Discussion](https://github.umn.edu/code-people/meetings/issues/136) - (tentative)
 - 10:45 Lightning Talks
-   - [DB Column Ordering](https://github.umn.edu/code-people/meetings/issues/53) - (tentative)
+   - Campus Codefest Projects
    
 Roles:
 - MC: Chris
