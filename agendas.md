@@ -4,10 +4,11 @@
 
 - 9:30 - Introductions
 - 9:35 - [DB Column Ordering and Table Design](https://github.umn.edu/code-people/meetings/issues/53) - (confirmed)
-- 9:50 - [Java Licensing Discussion](https://github.umn.edu/code-people/meetings/issues/119) - (tentative)
-- 10:10 - Break
-- 10:20 - [Git Open Discussion](https://github.umn.edu/code-people/meetings/issues/136) - (tentative)
-- 10:45 Lightning Talks
+- 9:50 - [Background Async Tasks in Ansible](https://github.umn.edu/code-people/meetings/issues/140) - (confirmed)
+- 10:00 - Break
+- 10:10 - [Cloud Services Initiatives](https://github.umn.edu/code-people/meetings/issues/137) - (confirmed) 
+- 10:30 Lightning Talks
+   - [Harmful Software Installations](https://github.umn.edu/code-people/meetings/issues/139) - (confirmed)
    - Campus Codefest Projects
    
 Roles:
