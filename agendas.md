@@ -9,6 +9,7 @@
 - 10:10 - [Cloud Services Initiatives](https://github.umn.edu/code-people/meetings/issues/137) - (confirmed) 
 - 10:30 Lightning Talks
    - [Harmful Software Installations](https://github.umn.edu/code-people/meetings/issues/139) - (confirmed)
+   - [DB Column Ordering](https://github.umn.edu/code-people/meetings/issues/53) - (tentative)
    - Campus Codefest Projects
    
 Roles:
@@ -22,14 +23,15 @@ Roles:
 - 9:35 - [Meet a Dev Group - AHC](https://github.umn.edu/code-people/meetings/issues/19) - (confirmed)
 - 9:55 - [Data with ASR](https://github.umn.edu/code-people/meetings/issues/115) - (tentative)
 - 10:10 - Break
-- 10:20 - ?
+- 10:20 - [Canvas Initiatives](https://github.umn.edu/code-people/meetings/issues/138) - (confirmed)
 - 10:45 Lightning Talks
-   - [DB Column Ordering](https://github.umn.edu/code-people/meetings/issues/53) - (tentative) 
+   - Drupal Management Tool - (tentative) 
+  
    
 Roles:
-- MC: ?
-- Talk Coordinator: ?
-- Issue Responder: ?
+- MC: Eva
+- Talk Coordinator: Davin
+- Issue Responder: Jake Gage
 
 
 ## 7 May 2020
