@@ -1,6 +1,6 @@
 # Code People Monthly Meetings
 
-## November 7 2019
+## Nov 7 2019
 
 - 9:30 - Introductions
 - 9:35 - [Use Jib to Deploy Java the Easy Way](https://github.umn.edu/code-people/meetings/issues/146) - (tentative)
@@ -16,9 +16,12 @@ Roles:
 - Issue Responder:
 
 
-## December 5 2019
-[Creating Public Documentation with VuePress](https://github.umn.edu/code-people/meetings/issues/142)
+## Dec 5 2019
 
+
+
+## Feb 6 2020
+[Creating Public Documentation with VuePress](https://github.umn.edu/code-people/meetings/issues/142) - (confirmed)
 
 
 ## 7 May 2020
