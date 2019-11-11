@@ -1,5 +1,18 @@
 # Past Meeting Agenda
 
+## Nov 7 2019
+
+- 9:30 - Introductions
+- 9:35 - [Use Jib to Deploy Java the Easy Way](https://github.umn.edu/code-people/meetings/issues/146) - (confirmed)
+- 10:00 - Break
+- 10:15 - [Authentication, Access, and Account Management Standards](https://github.umn.edu/code-people/meetings/issues/145) - (confirmed)
+- 10:45 Lightning Talks
+  
+Roles:
+- MC: Tonu
+- Talk Coordinator: Chris
+- Issue Responder: ?
+
 ## October 3 2019
 
 - 9:30 - Introductions
