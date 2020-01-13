@@ -1,5 +1,8 @@
 # Past Meeting Agenda
 
+## Jan 2 2020
+- Happy Hour
+
 ## Dec 5 2019
 
 - 9:30 - Introductions
