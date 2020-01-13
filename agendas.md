@@ -7,15 +7,21 @@
 - 10:00 - Break
 - 10:15 - [Database Indexes](https://github.umn.edu/code-people/meetings/issues/53#issuecomment-56725) - (tentative)
 - 10:45 Lightning Talks
+- Google calendar Recurrance Rules Tonu
+- Changing the code-people Google calendar
 
 Roles:
 - MC: Chris
-- Talk Coordinator: ?
-- Issue Responder: ?
-- Coffee Wrangler: ?
+- Talk Coordinator: Tonu
+- Issue Responder: Davin
+- Coffee Wrangler: Davin
 
 ## March 2020
-- All lightning talks?
+- [Tableau](https://github.umn.edu/code-people/meetings/issues/147) - (tentative)
+- Need to find a person to run A/V and computer set for the meeting.
+
+## April 2020
+- All lightning talks?  Announce later in January.  Prepare sign-up.  
 
 ## 7 May 2020
 **Walter 402 not available**
