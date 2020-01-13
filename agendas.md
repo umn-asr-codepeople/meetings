@@ -1,8 +1,5 @@
 # Code People Monthly Meetings
 
-## Jan 2 2020
-- Happy Hour
-
 ## Feb 6 2020
 
 - 9:30 - Introductions
