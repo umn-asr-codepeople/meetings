@@ -6,10 +6,10 @@
 - 9:35 - [Creating Public Documentation with VuePress](https://github.umn.edu/code-people/meetings/issues/142) - (confirmed)
 - 10:00 - Break
 - 10:10 - [My Year as a Tech Lead](https://github.umn.edu/code-people/meetings/issues/157) - (confirmed)
-- 10:30 - [Database Indexes](https://github.umn.edu/code-people/meetings/issues/53#issuecomment-56725) - (tentative)
+- 10:30 - [Database Indexes](https://github.umn.edu/code-people/meetings/issues/53#issuecomment-56725) - (confirmed)
 - 10:50 Lightning Talks
-  - Google calendar Recurrance Rules - Tonu
-  - Changing the code-people Google calendar - Chris
+  - Google Calendar Recurrance Rules - Tonu
+  - Changing the code-people Google Calendar - Chris
 
 Roles:
 - MC: Chris
