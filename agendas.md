@@ -3,6 +3,9 @@
 
 ## April 2020
 - [Tableau](https://github.umn.edu/code-people/meetings/issues/147) - (tentative)
+- [People over Processes, Feelings over Hype](https://github.umn.edu/code-people/meetings/issues/161) - (tentative)
+- [Jadu Forms](https://github.umn.edu/code-people/meetings/issues/160) - (tenative)
+- [ATSS - Sending Grades to Peoplesoft](https://github.umn.edu/code-people/meetings/issues/138) - (confirmed)
 - All lightning talks?  Announce later in January.  Prepare sign-up.  
 
 ## 7 May 2020
