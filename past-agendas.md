@@ -1,4 +1,14 @@
 # Past Meeting Agenda
+## April 2 2020
+- 9:30 - Introductions
+- 9:35 - Lightning Talks
+  - Update on Potential Git Workshop - Chris
+- 9:45 - [Virtual Open Discussion](http://code-people.umn.edu/upcoming/2020/04/02/virtual-meeting.html)
+
+Roles:
+- MC: Travis
+- Talk Coordinator: Tony
+- Issue Responder: Tonu
 
 ## March 2020
 - 9:30 - Introductions
