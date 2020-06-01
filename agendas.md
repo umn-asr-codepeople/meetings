@@ -1,24 +1,13 @@
-# Code People Monthly Meetings
-
-## 7 May 2020
+# Code People Monthly Meetings  
+  
+## 4 June 2020 
 - Introductions
 - Confirmed
-  - [ATSS - Sending Grades to Peoplesoft](https://github.umn.edu/code-people/meetings/issues/138)
-  - [People over Processes, Feelings over Hype](https://github.umn.edu/code-people/meetings/issues/161)
-  - Lightning Talks
-    - ServiceLater (archiving ServiceNow) - Colin McFadden, LATIS
-    - rspec's object_double - Davin Lagerroos, ASR
-  
-  
-## 4 June 2020
-  
-- Introductions
-- Confirmed
-  - ?
+  - [How We Built It: ChimeIn 2](https://github.umn.edu/code-people/meetings/issues/143)
   - Lightning Talks
     - New "SQL Advisor" Tool - Brad Carlson, OIT
 - Tentative
   - [Jadu Forms](https://github.umn.edu/code-people/meetings/issues/160)
-  - [Tableau](https://github.umn.edu/code-people/meetings/issues/147)
+  - [Pairing/working style discussion](https://github.umn.edu/code-people/meetings/issues/163)
   
   
