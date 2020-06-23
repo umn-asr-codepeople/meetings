@@ -1,6 +1,6 @@
 # Code People Monthly Meetings  
   
-## 4 June 2020 
+## 2 July 2020 
 - Introductions
 - Confirmed
   - [How We Built It: ChimeIn 2](https://github.umn.edu/code-people/meetings/issues/143)
