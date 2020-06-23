@@ -1,4 +1,7 @@
 # Past Meeting Agenda
+## 4 June 2020
+Canceled
+
 ## 7 May 2020
 - Introductions
 - Confirmed
