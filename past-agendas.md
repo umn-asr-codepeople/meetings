@@ -1,4 +1,16 @@
 # Past Meeting Agenda
+## 4 June 2020
+Canceled
+
+## 7 May 2020
+- Introductions
+- Confirmed
+  - [ATSS - Sending Grades to Peoplesoft](https://github.umn.edu/code-people/meetings/issues/138)
+  - [People over Processes, Feelings over Hype](https://github.umn.edu/code-people/meetings/issues/161)
+  - Lightning Talks
+    - ServiceLater (archiving ServiceNow) - Colin McFadden, LATIS
+    - rspec's object_double - Davin Lagerroos, ASR
+
 ## April 2 2020
 - 9:30 - Introductions
 - 9:35 - Lightning Talks
