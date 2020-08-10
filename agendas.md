@@ -1,6 +1,12 @@
 # Code People Monthly Meetings  
-## 3 July 2020
-- Virtual Happy Hour
+  
+## 3 Sept 2020
+
+- Confirmed
+  - [Jupyter Hub](https://github.umn.edu/code-people/meetings/issues/164)
+- Tentative
+  - Lightning Talks
+    - Sept workshop on Kubernetes - Travis and Colin
   
 ## 6 August 2020 
 - Introductions
