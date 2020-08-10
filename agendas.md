@@ -10,6 +10,7 @@
   - [Course Modality](https://github.umn.edu/code-people/meetings/issues/166)
   - Lightning Talks
     - Sept workshop on Kubernetes - Travis and Colin
+    - [mkdocs](https://www.mkdocs.org/) AzDevOps Pipeline - Peter B.
  - Roles
    - MC - Travis
    - Talk Coordinator - Chris 
