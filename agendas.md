@@ -5,8 +5,16 @@
 - Confirmed
   - [Jupyter Hub](https://github.umn.edu/code-people/meetings/issues/164)
 - Tentative
+  - [Pairing/Working Style discussion](https://github.umn.edu/code-people/meetings/issues/163)
+  - [Scholarships](https://github.umn.edu/code-people/meetings/issues/149)
+  - [Course Modality](https://github.umn.edu/code-people/meetings/issues/166)
   - Lightning Talks
     - Sept workshop on Kubernetes - Travis and Colin
+ - Roles
+   - MC - Travis
+   - Talk Coordinator - Chris 
+   - New Issue Respondor - Tonu
+  
   
 ## 6 August 2020 
 - Introductions
