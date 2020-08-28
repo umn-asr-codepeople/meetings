@@ -8,7 +8,7 @@
   - Lightning Talks
     - Sept workshop on Kubernetes - Travis and Colin
     - [mkdocs](https://www.mkdocs.org/) AzDevOps Pipeline - Peter B.
-    - Working Group on Sustainable Practices in Tech - Amy Drayer
+    - Sustainability in Tech - Amy Drayer
 - Tentative
   - [Pairing/Working Style discussion](https://github.umn.edu/code-people/meetings/issues/163)
   - [Scholarships](https://github.umn.edu/code-people/meetings/issues/149)
