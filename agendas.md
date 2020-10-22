@@ -2,7 +2,7 @@
 
 
 ## 5 Nov 2020 
-- [azdevops Pipelines](https://github.umn.edu/code-people/meetings/issues/172) (tentative)
+- [azdevops Pipelines](https://github.umn.edu/code-people/meetings/issues/172) (Travis)
 - [How we built it: Roomsearch](https://github.umn.edu/code-people/meetings/issues/174) (Tony and Davin)
 - Lightning Talks
   - ???
