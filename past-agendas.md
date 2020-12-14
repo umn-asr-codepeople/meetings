@@ -1,5 +1,19 @@
 # Past Meeting Agenda
 
+## 3 Dec 2020
+
+- [Intro to UMN Github](https://docs.google.com/presentation/d/1iFzXYps11TngQBNJM8XDnZdAgw94htL5MT4TXzl_qpc/edit?usp=sharing)
+- [Github workshop](https://pages.github.umn.edu/code-people/git_workshop/)
+- Lightning Talks
+  - [Execute Program](https://www.executeprogram.com/)
+
+## 5 Nov 2020 
+- [azdevops Pipelines](https://github.umn.edu/code-people/meetings/issues/172) (Travis)
+- [How we built it: Roomsearch](https://github.umn.edu/code-people/meetings/issues/174) (Tony and Davin)
+- Lightning Talks
+  - [Test Doubles](https://docs.google.com/presentation/d/1R3jeBv2sltjvaTrcU6VjdJjkjLMrl2SSHDZPG-23ZO0/edit?usp=sharing)
+
+
 ## 1 Oct 2020
 - Introductions
 - [Professional Development discussion](https://github.umn.edu/code-people/meetings/issues/149)
