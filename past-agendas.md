@@ -1,5 +1,14 @@
 # Past Meeting Agenda
 
+## Jan 7, 2021
+
+ - Zoom Happy Hour (Trivia or other structure?)
+    - look into polls for Code People departmental account (Brian)
+    - come up with trivia questions (Tonu)
+    - use an online game and play together in the meeting (Davin)
+    - MC: Tony
+    - set up Zoom meeting (Time: 4pm) - DONE
+    
 ## 3 Dec 2020
 
 - [Intro to UMN Github](https://docs.google.com/presentation/d/1iFzXYps11TngQBNJM8XDnZdAgw94htL5MT4TXzl_qpc/edit?usp=sharing)
