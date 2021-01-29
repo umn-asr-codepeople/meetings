@@ -1,6 +1,6 @@
 ---
 name: Request a talk
-about: Propose an idea for a talk
+about: Propose an idea for a Code People talk
 title: Talk Request
 labels: Talk Idea
 assignees: ''
