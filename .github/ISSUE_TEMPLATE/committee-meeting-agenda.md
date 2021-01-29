@@ -1,5 +1,5 @@
 ---
-name: Use for Committee meeting agenda
+name: Committee meeting agenda
 about: Agenda for Code People committee montly meetings
 title: ''
 labels: Monthly meeting
