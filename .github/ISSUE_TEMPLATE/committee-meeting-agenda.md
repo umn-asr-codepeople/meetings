@@ -1,7 +1,7 @@
 ---
 name: Committee meeting agenda
 about: Agenda for Code People committee montly meetings
-title: ''
+title: Monthly meeting
 labels: Monthly meeting
 assignees: ''
 
