@@ -1,5 +1,12 @@
 # Past Meeting Agenda
 
+## Feb 4, 2021
+
+- [Web app security scanning](https://github.umn.edu/code-people/meetings/issues/178) (tentative)
+- [Shibboleth 4](https://github.umn.edu/code-people/meetings/issues/180)) (tentative)
+- [Next Gen Oracle updates](https://github.umn.edu/code-people/meetings/issues/181) (tentative)
+
+
 ## Jan 7, 2021
 
  - Zoom Happy Hour (Trivia or other structure?)
