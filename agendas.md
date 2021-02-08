@@ -12,8 +12,10 @@
   - Reach out to the contacts on the agenda to confirm the topic and who is giving the talk.
 - New issue coordinator: Brian
 
+## April 1, 2021
+ - [Splunk](https://github.umn.edu/code-people/meetings/issues/185)
+ - Password management (lightning talk, Tonu?)
 
 ## Future
 - Tentative
   - [Pairing/Working Style discussion](https://github.umn.edu/code-people/meetings/issues/163)
-  - [Jadu forms and workflows](https://github.umn.edu/code-people/meetings/issues/160)
