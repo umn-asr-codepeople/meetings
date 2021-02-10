@@ -3,7 +3,6 @@
 
 ## March 4, 2021
   - [Grafana and Loki Demo](https://github.umn.edu/code-people/meetings/issues/182)
-  - [Oracle's JSON API](https://github.umn.edu/code-people/meetings/issues/183) (tentative)
   
 ### Roles
 
@@ -14,6 +13,7 @@
 
 ## April 1, 2021
  - [Splunk](https://github.umn.edu/code-people/meetings/issues/185)
+ - [Oracle's JSON API](https://github.umn.edu/code-people/meetings/issues/183)
  - Password management (lightning talk, Tonu?)
 
 ## Future
