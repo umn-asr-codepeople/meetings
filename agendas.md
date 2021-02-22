@@ -3,6 +3,7 @@
 
 ## March 4, 2021
   - [Grafana and Loki Demo](https://github.umn.edu/code-people/meetings/issues/182)
+  - [The Future Of Work Is Now](https://github.umn.edu/code-people/meetings/issues/187) Lightning Talk, Colin McFadden
   
 ### Roles
 
