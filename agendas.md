@@ -4,7 +4,6 @@
 
 - [Splunk](https://github.umn.edu/code-people/meetings/issues/185) (tentative)
 - [Oracle's JSON API](https://github.umn.edu/code-people/meetings/issues/183)
-- [Using Google Analytics events to inform UI changes](https://github.umn.edu/code-people/meetings/issues/186) (tentative)
 - Lightning talks
 
   
@@ -19,6 +18,7 @@
 
 - Password management (lightning talk, Tonu & Jenny Blaine)
 - [Higher level React](https://github.umn.edu/code-people/meetings/issues/184) (Kelsey following up)
+- [Using Google Analytics events to inform UI changes](https://github.umn.edu/code-people/meetings/issues/186) (tentative)
 
 ## Future
 - Tentative
