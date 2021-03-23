@@ -18,7 +18,8 @@
 
 - Password management (lightning talk, Tonu & Jenny Blaine)
 - [Higher level React](https://github.umn.edu/code-people/meetings/issues/184) (Kelsey following up)
-- [Using Google Analytics events to inform UI changes](https://github.umn.edu/code-people/meetings/issues/186) (tentative)
+- [Classroom Search design and development](https://github.umn.edu/code-people/meetings/issues/186)
+- [You Should Be Using Google Sites](https://github.umn.edu/code-people/meetings/issues/186)
 
 ## Future
 - Tentative
