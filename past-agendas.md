@@ -5,6 +5,10 @@
 - [Oracle's JSON API](https://github.umn.edu/code-people/meetings/issues/183)
 - Lightning talks
 
+## March 4, 2021
+  - [Grafana and Loki Demo](https://github.umn.edu/code-people/meetings/issues/182)
+  - [The Future Of Work Is Now](https://github.umn.edu/code-people/meetings/issues/187) Lightning Talk, Colin McFadden
+
 ## Feb 4, 2021
 
 - [Web app security scanning](https://github.umn.edu/code-people/meetings/issues/178) (tentative)
