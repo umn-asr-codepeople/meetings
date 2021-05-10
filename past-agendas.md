@@ -1,5 +1,11 @@
 # Past Meeting Agenda
 
+## May 6, 2021
+
+- [Password management](https://github.umn.edu/code-people/meetings/issues/188) (invite Security People)
+- [You should be using Google Sites](https://github.umn.edu/code-people/meetings/issues/192)
+- Breakroom activity, 5-7 per room, introductions and current projects, 10-15 minutes
+
 ## April 1, 2021
 
 - [Oracle's JSON API](https://github.umn.edu/code-people/meetings/issues/183)
