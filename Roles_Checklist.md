@@ -15,6 +15,7 @@
 - [ ] Write the confirmed lightning talks on the whiteboard.
 
 ### During the Meeting
+- [ ] Read the [land acknowledgement](https://docs.google.com/document/d/1c_RM1Qc0Th6mVBjNTHr5J9toZrKW_-qEBn9BnxMpQ54/edit)
 - [ ] Thank folks for donuts (Foundation, Kirk Madson) and coffee (FundIT).  
 - [ ] Announce next meeting/non-meeting.  
 - [ ] Call for lightning talks.   
@@ -25,6 +26,11 @@
 - [ ] Reach out to the contacts on the agenda to confirm the topic and who is giving the talk.
 - [ ] When confirmed, update the [agenda](https://github.umn.edu/code-people/meetings/blob/master/agendas.md) with the talk presenter names, time slot, and to say `(confirmed)`.
 - [ ] If talk slots open up, work to fill them by reaching out to other folks who have suggested talks in the [issues](https://github.umn.edu/code-people/meetings/issues). 
+
+## Day of Code People Meeting:
+- [ ] Ask presenters for links to slides
+## After Code People Meeting:
+- [ ] Update past agendas and add links to presentations
 
 ## Tuesday Prior to Code-People Meeting
 - [ ] Send the final meeting agenda to the MC
