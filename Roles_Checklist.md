@@ -18,7 +18,8 @@
 - [ ] Thank folks for donuts (Foundation, Kirk Madson) and coffee (FundIT).  
 - [ ] Announce next meeting/non-meeting.  
 - [ ] Call for lightning talks.   
-- [ ] Ask for future talk ideas (can just be requests, committee will try to figure out who can give the talk). 
+- [ ] Ask for future talk ideas (can just be requests, committee will try to figure out who can give the talk).
+- [ ] Read [land acknowledgment statement](https://docs.google.com/document/d/1c_RM1Qc0Th6mVBjNTHr5J9toZrKW_-qEBn9BnxMpQ54/edit)
 
 # Talk Coordinator Checklist for Code People meetings
 ## After Committee Meeting
