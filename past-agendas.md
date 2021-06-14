@@ -1,5 +1,17 @@
 # Past Meeting Agenda
 
+## June 3, 2021
+
+- [Using Azure DevOps with GitHub Enterprise](https://github.umn.edu/code-people/meetings/issues/197)
+- Lightning Talks
+
+### Roles
+
+- MC: Travis
+- Talk coordinator: Kelsey
+  - Reach out to the contacts on the agenda to confirm the topic and who is giving the talk.
+- New issue coordinator: Brian
+
 ## May 6, 2021
 
 - [Password management](https://github.umn.edu/code-people/meetings/issues/188) (invite Security People)
