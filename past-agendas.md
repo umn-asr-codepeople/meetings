@@ -1,5 +1,9 @@
 # Past Meeting Agenda
 
+## July 1, 2021
+
+- Zoom/Outdoor Social Gathering
+
 ## June 3, 2021
 
 - [Using Azure DevOps with GitHub Enterprise](https://github.umn.edu/code-people/meetings/issues/197)
