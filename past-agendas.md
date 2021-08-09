@@ -1,5 +1,11 @@
 # Past Meeting Agenda
 
+
+## August 5, 2021
+
+- [Creating an Accessibility Testing Plan](https://github.umn.edu/code-people/meetings/issues/202) Jen DeMesquita confirme - 45 min with time for questions.
+- [A lo-fi technique for evaluating JavaScript performance](https://github.umn.edu/code-people/meetings/issues/194) Tony Thomas confirmed - 20 min.
+ 
 ## July 1, 2021
 
 - Zoom/Outdoor Social Gathering
