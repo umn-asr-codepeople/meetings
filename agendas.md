@@ -1,20 +1,19 @@
 # Code People Monthly Meetings
 
-## August 5, 2021
+## September 2, 2021
 
-- [Creating an Accessibility Testing Plan](https://github.umn.edu/code-people/meetings/issues/202) Jen DeMesquita confirme - 45 min with time for questions.
-- [A lo-fi technique for evaluating JavaScript performance](https://github.umn.edu/code-people/meetings/issues/194) Tony Thomas confirmed - 20 min.
+- Using RedHat AIDE to Detect File Changes (Jack Brown tentative)
 - Lightning Talks
- - Giving out CoPies (awards) - Davin
+  - Building a developer docs site from wikis - Kelsey Neis
+  - The Pain Points SSL Cert Management - Tonu Mikk
+  - The CoPies - Davin Lageroos (tentative)
 
 Roles:
-   - MC - Davin
-   - Issue Responder - Kelsey
-   - Talk coordinator - Travis
+   - MC - Brian
+   - Issue Responder - Travis
+   - Talk coordinator - Tony
 
-## September, 2021
-- Tentative
-   - [Splunk](https://github.umn.edu/code-people/meetings/issues/185)
-   
+## Future Talks
+
 - Lightning Talks
    - Code People meeting format moving forward - discussion.  Which space?
