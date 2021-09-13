@@ -1,5 +1,12 @@
 # Past Meeting Agenda
 
+## September 2, 2021
+
+- Using RedHat AIDE to Detect File Changes (Jack Brown tentative)
+- Lightning Talks
+  - Building a developer docs site from wikis - Kelsey Neis
+  - The Pain Points SSL Cert Management - Tonu Mikk
+  - The CoPies - Davin Lageroos (tentative)
 
 ## August 5, 2021
 
