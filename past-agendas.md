@@ -1,5 +1,13 @@
 # Past Meeting Agenda
 
+## October 7, 2021
+
+- Ian Whitney Hiring with CARE
+- Lightning Talks
+   - Introducing the CoPies - Davin Lageroos
+   - Code People meeting format moving forward
+       - Gathering feedback
+
 ## September 2, 2021
 
 - Using RedHat AIDE to Detect File Changes (Jack Brown tentative)
