@@ -6,6 +6,7 @@
 - [Codies](https://github.umn.edu/code-people/meetings/issues/196) (Davin) 
 - Lightning Talks
   - [Announce Festivus](https://github.umn.edu/code-people/meetings/issues/212#issuecomment-77530) (Travis)
+  - Discuss Jan Happy Hour Options
 
 Roles:
 MC: Kelsey
