@@ -2,7 +2,7 @@
 
 ## Nov 4 2021
 
-- OIT Integration team
+- OIT Integration team talks CDL and APIs
   - What is the Common Data Layer (CDL)?
   - The common API catalog
   - Q & A
