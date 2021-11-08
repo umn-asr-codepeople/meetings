@@ -1,5 +1,17 @@
 # Past Meeting Agenda
 
+## Nov 4 2021
+
+- OIT Integration team talks CDL and APIs
+  - What is the Common Data Layer (CDL)?
+  - The common API catalog
+  - Q & A
+  - Presenters Dan Wagner <wagne025@umn.edu>, Phani Kandalam <pkandala@umn.edu>
+- [Codies](https://github.umn.edu/code-people/meetings/issues/196) (Davin) 
+- Lightning Talks
+  - [Announce Festivus](https://github.umn.edu/code-people/meetings/issues/212#issuecomment-77530) (Travis)
+  - Discuss Jan Happy Hour Options
+
 ## October 7, 2021
 
 - Ian Whitney Hiring with CARE
