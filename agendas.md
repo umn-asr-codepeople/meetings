@@ -2,7 +2,6 @@
 
 ## December 2 2021
 - Festivus
-- Terraform - Travis, Tentative - if not Festivus
 - Lightning talks:
   - Gauge happy hour interest and do instant poll about location
 
@@ -14,3 +13,7 @@ Roles:
 
 ## January 6, 2022
 - Happy Hour
+
+## Future
+
+- Terraform - Travis
