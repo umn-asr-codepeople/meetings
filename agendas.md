@@ -1,19 +1,27 @@
 # Code People Monthly Meetings
 
-## December 2 2021
-- Festivus
-- Lightning talks:
-  - Gauge happy hour interest and do instant poll about location
+## January 6, 2022
+
+- Happy Hour at [Malcom Yards](https://malcolmyards.market/)
 
 Roles:
 
-- MC: Tony Thomas
-- Talk coordinator: Brian Hanson
-- Issue responder: Kelsey Neis
+- Issue responder: Travis
+- Happy Hour announcement: Kelsey
 
-## January 6, 2022
-- Happy Hour
+## February 3, 2022
+
+- Web applications with Google Apps Script - Brian Hanson
+- Working with Legacy Code - Chris Meyer (tentative)
+- Lightning talks
+
+Roles:
+
+- MC: TBD
+- Talk coordinator: TBD
+- Issue responder: TBD
 
 ## Future
 
-- Terraform - Travis
+- Terraform - Travis (at an in-person meeting)
+- [Tableau Prep as an ETL tool](https://github.umn.edu/code-people/meetings/issues/235)
