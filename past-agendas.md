@@ -1,5 +1,9 @@
 # Past Meeting Agenda
 
+## January
+
+- Canceled
+
 ## December 2 2021
 - Festivus
 
