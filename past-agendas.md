@@ -1,5 +1,19 @@
 # Past Meeting Agenda
 
+## February 3, 2022
+
+- Web applications with Google Apps Script - Brian Hanson
+- [Tableau Prep as an ETL tool](https://github.umn.edu/code-people/meetings/issues/235) - Colin McFadden
+- Lightning talks
+    - Getting Started With the Common Data Layer API - Tonu Mikk
+    - AWX - Travis Sobeck
+
+Roles:
+
+- Issue responder: Tony
+- MC: Tonu
+- Talk coordinator: Travis
+
 ## January
 
 - Canceled
