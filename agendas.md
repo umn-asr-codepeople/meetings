@@ -1,20 +1,18 @@
 # Code People Monthly Meetings
 
-## March 3, 2022
+## April 7, 2022
 
-- Working with Legacy Code - RAS (tentative)
-- Discussion: Container tool options
-
-Lightning talks:
-- Vault demo (tentative)
-- Toastmasters - Tonu
+- Learning Resource Round-up
+- Lightning talks
+  - Suggest one!
 
 Roles:
 
-- Issue responder: Tonu
-- MC: Davin
-- Talk coordinator: Kelsey
+- Issue responder: Travis
+- MC: Kelsey
+- Talk coordinator: Davin
 
 ## Future
 
 - Terraform - Travis (at an in-person meeting)
+- [Modern CSS practices](https://github.umn.edu/code-people/meetings/issues/222) (tentative)
