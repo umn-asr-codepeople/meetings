@@ -12,7 +12,7 @@
 Roles:
 
 - MC: TBD
-- Issue responder: TBD
+- Issue responder: Kelsey
 - Talk coordinator: Travis
 
 ## June 2, 2022
