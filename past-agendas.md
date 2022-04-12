@@ -1,5 +1,10 @@
 # Past Meeting Agenda
 
+## April 7, 2022
+
+- CSS container queries
+- Learning Resource Round-up
+
 ## March 3, 2022
 
 - Working with Legacy Code - RAS (tentative)
