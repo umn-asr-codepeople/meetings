@@ -2,7 +2,7 @@
 
 ## May 5, 2022
 
-- [Password automation for applications](https://github.umn.edu/code-people/meetings/issues/199) (tentative)
+- [Password automation for applications](https://github.umn.edu/code-people/meetings/issues/199) (tentative) (Nicholas Padillapadil014@umn.edu Trevor Lawrence lawre281@umn.edu)
 - [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215) (tentative)
 - [Docker - How to construct a Dockerfile](https://github.umn.edu/code-people/meetings/issues/231) - Travis Sobeck
 - Lightning talks
