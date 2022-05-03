@@ -9,7 +9,7 @@
 
 Roles:
 
-- MC: TBD
+- MC: Kelsey
 - Issue responder: Kelsey
 - Talk coordinator: Travis
 
