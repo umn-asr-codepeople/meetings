@@ -2,8 +2,6 @@
 
 ## May 5, 2022
 
-- [Password automation for applications](https://github.umn.edu/code-people/meetings/issues/199) (tentative) (Nicholas Padillapadil014@umn.edu Trevor Lawrence lawre281@umn.edu)
-- [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215) (tentative)
 - [Docker - How to construct a Dockerfile](https://github.umn.edu/code-people/meetings/issues/231) - Travis Sobeck
 - Lightning talks
   - How not to use the CDL (5 minutes that will not be of any use to you) - Tonu Mikk
@@ -19,6 +17,7 @@ Roles:
 
 - Certbot (tentative) https://github.umn.edu/code-people/meetings/issues/244
 - Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245
+- [Rails 7: Import Maps vs JS Bundling](https://github.umn.edu/code-people/meetings/issues/247)
 
 ## July 7, 2022
 
@@ -31,3 +30,5 @@ Roles:
 ## Future
 
 - Terraform - Travis (at an in-person meeting)
+- [Password automation for applications](https://github.umn.edu/code-people/meetings/issues/199) (tentative) (Nicholas Padillapadil014@umn.edu Trevor Lawrence lawre281@umn.edu)
+- [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215) (tentative)
