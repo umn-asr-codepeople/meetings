@@ -2,7 +2,7 @@
 
 ## May 5, 2022
 
-- [Docker - How to construct a Dockerfile](https://github.umn.edu/code-people/meetings/issues/231) - Travis Sobeck
+- [Docker - How to construct a Dockerfile](https://github.umn.edu/code-people/meetings/issues/231) - Travis Sobeck [Slide Deck](https://docs.google.com/presentation/d/1vbaOFW97qHD-4Tl1nXLSiJY1soidkwU83UtDHeUk8Qs/edit?usp=sharing)
 - Lightning talks
   - How not to use the CDL (5 minutes that will not be of any use to you) - Tonu Mikk
   - Suggest one!
