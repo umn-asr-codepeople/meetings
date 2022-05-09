@@ -1,23 +1,18 @@
 # Code People Monthly Meetings
 
-## May 5, 2022
-
-- [Docker - How to construct a Dockerfile](https://github.umn.edu/code-people/meetings/issues/231) - Travis Sobeck [Slide Deck](https://docs.google.com/presentation/d/1vbaOFW97qHD-4Tl1nXLSiJY1soidkwU83UtDHeUk8Qs/edit?usp=sharing)
-- Lightning talks
-  - How not to use the CDL (5 minutes that will not be of any use to you) - Tonu Mikk
-  - Suggest one!
-
-Roles:
-
-- MC: Kelsey
-- Issue responder: Kelsey
-- Talk coordinator: Travis
-
 ## June 2, 2022
 
-- Certbot (tentative) https://github.umn.edu/code-people/meetings/issues/244
-- Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245
-- [Rails 7: Import Maps vs JS Bundling](https://github.umn.edu/code-people/meetings/issues/247)
+- Certbot (tentative - Davin followed up) https://github.umn.edu/code-people/meetings/issues/244
+- Meet the Team (tentative - Tony will follow up week of 5/16): UCM https://github.umn.edu/code-people/meetings/issues/245
+- [Rails 7: Import Maps vs JS Bundling](https://github.umn.edu/code-people/meetings/issues/247) (confirmed)
+- Lightning Talks:
+  - Bring your own
+
+Roles
+
+- MC: Davin
+- Issue responder: Kelsey
+- Talk coordinator: Tony
 
 ## July 7, 2022
 
