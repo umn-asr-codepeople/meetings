@@ -3,7 +3,7 @@
 ## June 2, 2022
 
 - Certbot (confirmed) https://github.umn.edu/code-people/meetings/issues/244
-- Meet the Team (tentative - Tony will follow up week of 5/16): UCM https://github.umn.edu/code-people/meetings/issues/245
+- Certificate Management at the U with InCommon (confirmed): https://github.umn.edu/code-people/meetings/issues/252
 - [Rails 7: Import Maps vs JS Bundling](https://github.umn.edu/code-people/meetings/issues/247) (confirmed)
 - Lightning Talks:
   - Bring your own
@@ -21,6 +21,7 @@ Roles
 ## August 4, 2022
 
 - [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - Tonu (tentatively August)
+- Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245
 
 ## Future
 
