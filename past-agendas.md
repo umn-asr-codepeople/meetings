@@ -1,5 +1,19 @@
 # Past Meeting Agenda
 
+## June 2, 2022
+
+- Certbot (confirmed) https://github.umn.edu/code-people/meetings/issues/244
+- Certificate Management at the U with InCommon (confirmed): https://github.umn.edu/code-people/meetings/issues/252
+- [Rails 7: Import Maps vs JS Bundling](https://github.umn.edu/code-people/meetings/issues/247) (confirmed)
+- Lightning Talks:
+  - Bring your own
+
+Roles
+
+- MC: Davin
+- Issue responder: Kelsey
+- Talk coordinator: Tony
+
 ## May 5, 2022
 
 - [Docker - How to construct a Dockerfile](https://github.umn.edu/code-people/meetings/issues/231) - Travis Sobeck [Slide Deck](https://docs.google.com/presentation/d/1vbaOFW97qHD-4Tl1nXLSiJY1soidkwU83UtDHeUk8Qs/edit?usp=sharing)
