@@ -8,6 +8,10 @@
 
 ## August 4, 2022
 
+Topics to discuss next meeting!
+- Discuss overlap with OIT PI planning
+- Discuss In-person/hybrid + workshops
+
 - [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - Tonu (tentatively August)
 - Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245
 
