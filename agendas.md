@@ -4,7 +4,7 @@
 
 - Happy Hour
 
-[Urban Growlwer](https://goo.gl/maps/2fjtMXiJEhjFE8An8)
+[Urban Growler](https://goo.gl/maps/2fjtMXiJEhjFE8An8)
 
 ## August 4, 2022
 
