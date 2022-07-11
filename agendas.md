@@ -2,6 +2,7 @@
 
 ## August 4, 2022
 
+- Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150) (tentative)
 - [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) (tentative)
 
@@ -20,10 +21,6 @@
 ## October 6, 2022
 
 - Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
-
-## November 3, 2022
-
-- Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245 (tentative)
 
 ## Future
 
