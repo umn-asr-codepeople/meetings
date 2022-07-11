@@ -3,6 +3,7 @@
 ## August 4, 2022
 
 - Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245
+- [Introduction to React](https://github.umn.edu/code-people/meetings/issues/184) - Kim Doberstein
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150) (tentative)
 - [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) (tentative)
 
