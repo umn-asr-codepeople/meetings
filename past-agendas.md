@@ -1,5 +1,9 @@
 # Past Meeting Agenda
 
+## July 7, 2022
+
+- Happy Hour at [Urban Growler](https://goo.gl/maps/2fjtMXiJEhjFE8An8)
+
 ## June 2, 2022
 
 - Certbot (confirmed) https://github.umn.edu/code-people/meetings/issues/244
