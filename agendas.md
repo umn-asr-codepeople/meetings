@@ -3,8 +3,6 @@
 ## August 4, 2022
 
 - [Introduction to React](https://github.umn.edu/code-people/meetings/issues/184) - Kim Doberstein
-- [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150) (tentative)
-- [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) (tentative)
 
 ### Roles
 
@@ -24,7 +22,9 @@
 
 ## Future
 
-- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - Tonu (tentatively August)
+- [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
+- [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160)
+- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - Tonu
 - Terraform - Travis (at an in-person meeting)
 - [Password automation for applications](https://github.umn.edu/code-people/meetings/issues/199) (tentative) (Nicholas Padillapadil014@umn.edu Trevor Lawrence lawre281@umn.edu)
 - [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215) (tentative)
