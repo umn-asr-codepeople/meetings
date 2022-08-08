@@ -1,5 +1,15 @@
 # Past Meeting Agenda
 
+## August 4, 2022
+
+- [Introduction to React](https://github.umn.edu/code-people/meetings/issues/184) - Kim Doberstein
+
+### Roles
+
+- Talk coordinator: Tonu
+- MC: Tony
+- New issue coordinator: Travis
+
 ## July 7, 2022
 
 - Happy Hour at [Urban Growler](https://goo.gl/maps/2fjtMXiJEhjFE8An8)
