@@ -1,15 +1,5 @@
 # Code People Monthly Meetings
 
-## August 4, 2022
-
-- [Introduction to React](https://github.umn.edu/code-people/meetings/issues/184) - Kim Doberstein
-
-### Roles
-
-- Talk coordinator: Tonu
-- MC: Tony
-- New issue coordinator: Travis
-
 ## September 1, 2022
 
 - TBD
