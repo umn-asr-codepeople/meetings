@@ -7,7 +7,8 @@
 - Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
 
 Roles:
-- MC: Travis
+- Talk Coordinator: Travis
+- New Issue Coordinator: Brian
 
 ## November 3, 2022
 
