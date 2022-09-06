@@ -2,17 +2,20 @@
 
 ## September 1, 2022
 
+## October 6, 2022
+
+- Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
+
+Roles:
+- MC: Travis
+
+## November 3, 2022
+
 - [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) - Kari Sweeney (confirmed)
 - [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (tentative - Tonu to follow up)
 
 Roles:
 - MC: Tonu
-
-## October 6, 2022
-
-- Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
-
-## November 3, 2022
 
 ## December 1, 2022
 
