@@ -13,7 +13,7 @@ Roles:
 ## November 3, 2022
 
 - [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) - Kari Sweeney (confirmed)
-- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (tentative - Tonu to follow up)
+- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (confirmed)
 
 Roles:
 - MC: Tonu
