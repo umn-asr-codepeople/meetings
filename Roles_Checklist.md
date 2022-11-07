@@ -25,8 +25,9 @@
 - [ ] Read [land acknowledgment statement](https://docs.google.com/document/d/1c_RM1Qc0Th6mVBjNTHr5J9toZrKW_-qEBn9BnxMpQ54/edit)
 
 # Talk Coordinator Checklist for Code People meetings
+Collaborate with MC to get the meeting together
 ## After Committee Meeting
-- [ ] Reach out to the contacts on the agenda to confirm the topic and who is giving the talk.
+- [ ] Reach out to the contacts on the agenda to confirm the topic and who is giving the talk. Make sure to keep MC in the loop on communications with speakers.
 - [ ] When confirmed, update the [agenda](https://github.umn.edu/code-people/meetings/blob/master/agendas.md) with the talk presenter names, time slot, and to say `(confirmed)`.
 - [ ] If talk slots open up, work to fill them by reaching out to other folks who have suggested talks in the [issues](https://github.umn.edu/code-people/meetings/issues). 
 
