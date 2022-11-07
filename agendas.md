@@ -1,26 +1,22 @@
 # Code People Monthly Meetings
 
-## September 1, 2022
-
-## October 6, 2022
-
-- Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
-
-Roles:
-- Talk Coordinator: Travis
-- New Issue Coordinator: Brian
-
-## November 3, 2022
+## December 1, 2022
 
 - [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) - Kari Sweeney (confirmed)
-- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (confirmed)
+- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (tentative)
 
 Roles:
 - MC: Tonu
+- Talk Coordinator: Kelsey
+- Issue Responder: Travis
 
-## December 1, 2022
+## January 5, 2023
 
-- [Workplace Culture Panel](https://github.umn.edu/code-people/meetings/issues/255)
+- CP Happy Hour
+
+## February 2, 2023
+
+- [Workplace Culture Panel](https://github.umn.edu/code-people/meetings/issues/255) (tentative, hybrid?)
 
 ## Future
 
