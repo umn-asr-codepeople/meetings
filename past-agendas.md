@@ -1,5 +1,13 @@
 # Past Meeting Agenda
 
+## October 6, 2022
+
+- Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
+
+Roles:
+- Talk Coordinator: Travis
+- New Issue Coordinator: Brian
+
 ## August 4, 2022
 
 - [Introduction to React](https://github.umn.edu/code-people/meetings/issues/184) - Kim Doberstein
