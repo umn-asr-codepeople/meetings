@@ -2,6 +2,8 @@
 ## One Week Before Code-People Meeting
 ### General
 - [ ] Verify room is still available in google calendar
+- In case of cancellation, make sure to notify the community on the #code-people Slack channel as well as email
+
 ### When Final Agenda is Received from Talk Coordinator
 - [ ] Update code-people.github.io 
 - [ ] Send announcement to Code People email list (based on TBD template).   
