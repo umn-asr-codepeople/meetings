@@ -28,4 +28,4 @@ Roles:
 - Terraform - Travis (at an in-person meeting)
 - [Password automation for applications](https://github.umn.edu/code-people/meetings/issues/199) (tentative) (Nicholas Padillapadil014@umn.edu Trevor Lawrence lawre281@umn.edu)
 - [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215) (tentative)
-
+- Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
