@@ -1,16 +1,5 @@
 # Code People Monthly Meetings
 
-## December 1, 2022
-
-- [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) - Kari Sweeney (confirmed)
-- Jadu Forms from the Designer Perspective - Tonu Mikk and Brian Hanson
-- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (tentative)
-
-Roles:
-- MC: Tonu
-- Talk Coordinator: Kelsey
-- Issue Responder: Travis
-
 ## January 5, 2023
 
 - CP Happy Hour
