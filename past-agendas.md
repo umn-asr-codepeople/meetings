@@ -1,5 +1,16 @@
 # Past Meeting Agenda
 
+## December 1, 2022
+
+- [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) - Kari Sweeney (confirmed)
+- Jadu Forms from the Designer Perspective - Tonu Mikk and Brian Hanson
+- [PopeTech demo](https://github.umn.edu/code-people/meetings/issues/224) - John Starr (tentative)
+
+Roles:
+- MC: Tonu
+- Talk Coordinator: Kelsey
+- Issue Responder: Travis
+
 ## October 6, 2022
 
 - Combined meeting with [the Digital Accessibility community of practice](https://accessibility.umn.edu/groups-events/join-accessibility-groups) (tentative)
