@@ -1,5 +1,9 @@
 # Past Meeting Agenda
 
+## January 5, 2023
+
+- CP Happy Hour
+
 ## December 1, 2022
 
 - [Jadu Overview](https://github.umn.edu/code-people/meetings/issues/160) - Kari Sweeney (confirmed)
