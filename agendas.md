@@ -1,12 +1,21 @@
 # Code People Monthly Meetings
 
-## January 5, 2023
-
-- CP Happy Hour
-
 ## February 2, 2023
 
+- [Ansible Tower](https://github.umn.edu/code-people/meetings/issues/264) (Travis Sobeck)
 - [Workplace Culture Panel](https://github.umn.edu/code-people/meetings/issues/255) (tentative, hybrid?)
+- [Goldydoc](https://github.umn.edu/code-people/meetings/issues/265) (tentative)
+- lightning talks
+
+Roles:
+- MC: Brian 
+- Talk Coordinator: Travis
+- Issue Responder: Shawn
+
+
+## March 2, 2023
+
+- Testing Shawn Isenhart via Sandi Metz (tentative)
 
 ## Future
 
