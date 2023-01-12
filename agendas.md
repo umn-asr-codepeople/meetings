@@ -3,7 +3,6 @@
 ## February 2, 2023
 
 - [Ansible Tower](https://github.umn.edu/code-people/meetings/issues/264) (Travis Sobeck)
-- [Workplace Culture Panel](https://github.umn.edu/code-people/meetings/issues/255) (tentative, hybrid?)
 - lightning talks
 
 Roles:
@@ -19,6 +18,7 @@ Roles:
 
 ## Future
 
+- [Workplace Culture Panel](https://github.umn.edu/code-people/meetings/issues/255) (tentative, hybrid?)
 - Working style discussion w/breakout sessions
 - Survey/discussion of in person/hybrid format (closer to spring 2023)
 - Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245 (October 2022 or later)
