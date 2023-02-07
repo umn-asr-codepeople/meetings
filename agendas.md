@@ -1,25 +1,21 @@
 # Code People Monthly Meetings
 
-## February 2, 2023
-
-- [Ansible Tower](https://github.umn.edu/code-people/meetings/issues/264) (Travis Sobeck)
-- lightning talks
-
-Roles:
-- MC: Brian 
-- Talk Coordinator: Travis
-- Issue Responder: Shawn
-
-
 ## March 2, 2023
 
-- Testing Shawn Isenhart via Sandi Metz (tentative)
+- Testing Shawn Isenhart via Sandi Metz
 - [Goldydoc](https://github.umn.edu/code-people/meetings/issues/265)
+
+Roles
+- MC: Kelsey
+- Talk Coordinator: Tonu
+- Issue Responder: Brian
+
 
 ## Future
 
 - [Workplace Culture Panel](https://github.umn.edu/code-people/meetings/issues/255) (tentative, hybrid?)
-- Working style discussion w/breakout sessions
+- [Docker workshop](https://github.umn.edu/code-people/meetings/issues/231)
+- [Working style discussion w/breakout sessions](https://github.umn.edu/code-people/meetings/issues/163)
 - Survey/discussion of in person/hybrid format (closer to spring 2023)
 - Meet the Team: UCM https://github.umn.edu/code-people/meetings/issues/245 (October 2022 or later)
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
