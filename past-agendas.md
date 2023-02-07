@@ -1,5 +1,15 @@
 # Past Meeting Agenda
 
+## February 2, 2023
+
+- [Ansible Tower](https://github.umn.edu/code-people/meetings/issues/264) (Travis Sobeck)
+- lightning talks
+
+Roles:
+- MC: Brian 
+- Talk Coordinator: Travis
+- Issue Responder: Shawn
+
 ## January 5, 2023
 
 - CP Happy Hour
