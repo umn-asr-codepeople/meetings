@@ -1,14 +1,14 @@
 # Code People Monthly Meetings
 
-## March 2, 2023
+## April 6, 2023
 
-- Testing Shawn Isenhart via Sandi Metz
-- [Goldydoc](https://github.umn.edu/code-people/meetings/issues/265)
+- Managing your portfolio when your team shrinks (Tony T) 30 minutes
+- Turbo: JS for the JS-averse (potential) Andrew R Seroff (aseroff) 15 mins
 
 Roles
-- MC: Kelsey
-- Talk Coordinator: Tonu
-- Issue Responder: Brian
+- MC:
+- Talk Coordinator: 
+- Issue Responder: 
 
 
 ## Future
