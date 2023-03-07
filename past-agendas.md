@@ -1,5 +1,15 @@
 # Past Meeting Agenda
 
+## March 2, 2023
+
+- Testing Shawn Isenhart via Sandi Metz
+- [Goldydoc](https://github.umn.edu/code-people/meetings/issues/265)
+
+Roles
+- MC: Kelsey
+- Talk Coordinator: Tonu
+- Issue Responder: Brian
+-
 ## February 2, 2023
 
 - [Ansible Tower](https://github.umn.edu/code-people/meetings/issues/264) (Travis Sobeck)
