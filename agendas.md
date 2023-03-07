@@ -6,9 +6,9 @@
 - Turbo: JS for the JS-averse (potential) Andrew R Seroff (aseroff) 15 mins
 
 Roles
-- MC:
-- Talk Coordinator: 
-- Issue Responder: 
+- MC: Shawn
+- Talk Coordinator: Travis
+- Issue Responder: Rose
 
 
 ## Future
