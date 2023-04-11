@@ -1,5 +1,18 @@
 # Past Meeting Agenda
 
+## April 6, 2023
+
+- Managing your portfolio when your team shrinks (Tony T) 30 minutes
+- Turbo: JS for the JS-averse (potential) Andrew R Seroff (aseroff) 15 mins
+- Lightning Talks
+  - Discuss https://github.umn.edu/code-people/meetings/issues/163 and poll attendees on how to design breakout rooms
+  - Follow up to GoldyDocs and docs.oit (Ander/Peter 10 minutes)
+
+Roles
+- MC: Shawn
+- Talk Coordinator: Travis
+- Issue Responder: Rose
+
 ## March 2, 2023
 
 - Testing Shawn Isenhart via Sandi Metz
