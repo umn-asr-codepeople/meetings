@@ -1,5 +1,9 @@
 # Past Meeting Agenda
 
+## May 4, 2023
+
+- Meeting canceled
+
 ## April 6, 2023
 
 - Managing your portfolio when your team shrinks (Tony T) 30 minutes
