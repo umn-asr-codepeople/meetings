@@ -1,5 +1,17 @@
 # Past Meeting Agenda
 
+## July 6th, 2023
+ 
+- Happy Hour!
+
+## June 1st, 2023
+
+- [Docker workshop](https://github.umn.edu/code-people/meetings/issues/231)
+
+Lightning talks:
+- Survey of in person/hybrid format for Code People, with link to Google Form survey
+- Campus Codefest announcement and signup form
+
 ## May 4, 2023
 
 - Meeting canceled
