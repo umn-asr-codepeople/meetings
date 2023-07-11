@@ -2,10 +2,11 @@
 
 August 3rd, 2023
 
-- [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215)
+  - [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215)
 
 Lightning talks:
   - Code Fest: TBD (Shawn will get back to us)
+  - Rememberence of Jack (Brian to reach out to CCS) TBD
 
 Roles
 - MC: Travis
