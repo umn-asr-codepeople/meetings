@@ -17,6 +17,7 @@ Roles
 
 ## Future
 
+- Discussion around Format of meetings.  Look at alternative locations with better parking
 - [Working style discussion w/breakout sessions](https://github.umn.edu/code-people/meetings/issues/163)
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
 - Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
