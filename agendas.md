@@ -6,8 +6,9 @@ August 3rd, 2023
 
 Lightning talks:
   - Code Fest: TBD (Shawn will get back to us)
-  - Rememberence of Jack (Brian to reach out to CCS) TBD
   - Checking Oracle Schema password expirations: Eric Eklund
+  - Rememberence of Jack (Brian to reach out to CCS) TBD
+
 
 Roles
 - MC: Travis
