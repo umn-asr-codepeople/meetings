@@ -17,6 +17,7 @@
 - [ ] Write the confirmed lightning talks on the whiteboard.
 
 ### During the Meeting
+- [] START the recording!
 - [ ] Read the [land acknowledgement](https://docs.google.com/document/d/1c_RM1Qc0Th6mVBjNTHr5J9toZrKW_-qEBn9BnxMpQ54/edit)
 - [ ] Thank folks for donuts (Foundation, Kirk Madson) and coffee (FundIT).  
 - [ ] Announce next meeting/non-meeting.  
