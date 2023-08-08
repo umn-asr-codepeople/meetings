@@ -1,21 +1,17 @@
 # Code People Monthly Meetings
 
-August 3rd, 2023
+## September
 
-  - [Grouper architecture and management](https://github.umn.edu/code-people/meetings/issues/215)
-
-Lightning talks:
-  - Code Fest: TBD (Shawn will get back to us)
-  - Checking Oracle Schema password expirations: Eric Eklund
-  - Rememberence of Jack (Brian to reach out to CCS) TBD
-
+Encourage folks to go to Campus Codefest!
 
 Roles
-- MC: Travis
-- Issue Responder: Shawn
-- Talk Coordinator: Rose
+- MC: 
+- Issue Responder: 
+- Talk Coordinator: 
 
+## October
 
+Real-time access deprovisioning - boomi/grouper - Sudheer Singidi and Paul Rubenis
 
 ## Future
 
