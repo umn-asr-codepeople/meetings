@@ -11,7 +11,7 @@ Roles
 
 ## October
 
-Real-time access deprovisioning - boomi/grouper - Sudheer Singidi and Paul Rubenis
+[Real-time access deprovisioning - boomi/grouper](https://github.umn.edu/code-people/meetings/issues/278) - Sudheer Singidi and Paul Rubenis
 
 ## Future
 
