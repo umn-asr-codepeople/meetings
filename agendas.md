@@ -7,6 +7,11 @@
 Lightning Talks:
 - Code People Committee recruitment & talk ideas - Shawn Isenhart
 
+Roles
+- MC: Brian
+- Issue Responder: Travis
+- Talk Coordinator: Rose
+
 ## Future
 
 - Discussion around Format of meetings.
