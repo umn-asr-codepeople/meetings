@@ -4,6 +4,9 @@
 
 [Real-time access deprovisioning - boomi/grouper](https://github.umn.edu/code-people/meetings/issues/278) - Sudheer Singidi and Paul Rubenis
 
+Lightning Talks:
+- Code People Committee recruitment & talk ideas - Shawn Isenhart
+
 ## Future
 
 - Discussion around Format of meetings.
