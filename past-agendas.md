@@ -1,5 +1,8 @@
 # Past Meeting Agenda
 
+## September
+
+Encouraged folks to go to Campus Codefest!
 
 ## August 3rd, 2023
 
