@@ -1,14 +1,5 @@
 # Code People Monthly Meetings
 
-## September
-
-Encourage folks to go to Campus Codefest!
-
-Roles
-- MC: 
-- Issue Responder: 
-- Talk Coordinator: 
-
 ## October
 
 [Real-time access deprovisioning - boomi/grouper](https://github.umn.edu/code-people/meetings/issues/278) - Sudheer Singidi and Paul Rubenis
