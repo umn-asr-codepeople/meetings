@@ -6,6 +6,7 @@
 
 Lightning Talks:
 - Code People Committee recruitment & talk ideas - Shawn Isenhart
+- Vault POC update - Agnes Dinger
 
 Roles
 - MC: Brian
