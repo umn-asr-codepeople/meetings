@@ -1,5 +1,13 @@
 # Past Meeting Agenda
 
+## November
+ * Kafka, Ian Whitney
+
+Roles
+- MC: Shawn
+- Issue Responder: Brian
+- Talk Coordinator: Travis
+
 ## October
 
 [Real-time access deprovisioning - boomi/grouper](https://github.umn.edu/code-people/meetings/issues/278) - Sudheer Singidi and Paul Rubenis
