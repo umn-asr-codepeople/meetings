@@ -10,6 +10,9 @@ Roles
 - Issue Responder: Travis
 - Talk Coordinator: Shawn
 
+## January
+- Happy Hour, Malcom Yards
+- 
 ## Future
 
 - Discussion around Format of meetings.
