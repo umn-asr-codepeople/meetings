@@ -1,7 +1,7 @@
 # Code People Monthly Meetings
 
 ## December
-- Testing in Production, Davin Lagerro
+- Testing in Production, Davin Lagerroos
 - AT Tools' Ansible: An Analysis for Improvement, Clem Smith
 - Lightning talks
 
