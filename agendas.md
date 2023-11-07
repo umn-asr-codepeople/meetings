@@ -1,12 +1,11 @@
 # Code People Monthly Meetings
 
-## November
- * TBD
+## December
 
 Roles
-- MC: Shawn
-- Issue Responder: Brian
-- Talk Coordinator: Travis
+- MC: 
+- Issue Responder: 
+- Talk Coordinator: 
 
 ## Future
 
