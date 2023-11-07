@@ -6,9 +6,9 @@
 - Lightning talks
 
 Roles
-- MC: 
-- Issue Responder: 
-- Talk Coordinator: 
+- MC: Tonu
+- Issue Responder: Travis
+- Talk Coordinator: Shawn
 
 ## Future
 
