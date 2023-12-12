@@ -3,6 +3,7 @@
 ### General
 - [ ] Verify room is still available in google calendar
 - In case of cancellation, make sure to notify the community on the #code-people Slack channel as well as email
+- [ ] If it's a Happy Hour, then [request the IT@UMN calendar event to be updated](https://it.umn.edu/training-events) from the Code People morning meeting to the Happy Hour event
 
 ### When Final Agenda is Received from Talk Coordinator
 - [ ] Update code-people.github.io 
@@ -15,7 +16,6 @@
 - [ ] Talk to presenters to clarify how you will signal them about time.   
 - [ ] Set up lunch poll in Slack channel.  
 - [ ] Write the confirmed lightning talks on the whiteboard.
-- [ ] If it's a Happy Hour, then [request the IT@UMN calendar event to be updated](https://it.umn.edu/training-events) from the Code People morning meeting to the Happy Hour event
 
 ### During the Meeting
 - [ ] START the recording!
