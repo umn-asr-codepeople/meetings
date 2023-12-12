@@ -1,5 +1,10 @@
 # Past Meeting Agenda
 
+## December
+- Testing in Production, Davin Lagerroos
+- AT Tools' Ansible: An Analysis for Improvement, Clem Smith
+- Lightning talks
+
 ## November
  * Kafka, Ian Whitney
 
