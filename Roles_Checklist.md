@@ -15,11 +15,11 @@
 - [ ] Talk to presenters to clarify how you will signal them about time.   
 - [ ] Set up lunch poll in Slack channel.  
 - [ ] Write the confirmed lightning talks on the whiteboard.
+- [ ] If it's a Happy Hour, then [request the IT@UMN calendar event to be updated](https://it.umn.edu/training-events) from the Code People morning meeting to the Happy Hour event
 
 ### During the Meeting
-- [] START the recording!
+- [ ] START the recording!
 - [ ] Read the [land acknowledgement](https://docs.google.com/document/d/1c_RM1Qc0Th6mVBjNTHr5J9toZrKW_-qEBn9BnxMpQ54/edit)
-- [ ] Thank folks for donuts (Foundation, Kirk Madson) and coffee (FundIT).  
 - [ ] Announce next meeting/non-meeting.  
 - [ ] Call for lightning talks.   
 - [ ] Ask for future talk ideas (can just be requests, committee will try to figure out who can give the talk).
