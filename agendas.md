@@ -1,18 +1,13 @@
 # Code People Monthly Meetings
 
-## December
-- Testing in Production, Davin Lagerroos
-- AT Tools' Ansible: An Analysis for Improvement, Clem Smith
-- Lightning talks
+## January
+- Happy Hour, Malcolm Yards
 
 Roles
-- MC: Tonu
+- MC: Rose
 - Issue Responder: Travis
-- Talk Coordinator: Shawn
+- Calendar Coordinator: Tonu
 
-## January
-- Happy Hour, Malcom Yards
-- 
 ## Future
 
 - Discussion around Format of meetings.
