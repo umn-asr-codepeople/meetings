@@ -3,7 +3,7 @@
 ### General
 - [ ] Verify room is still available in google calendar
 - In case of cancellation, make sure to notify the community on the #code-people Slack channel as well as email
-- [ ] If it's a Happy Hour, then [request the IT@UMN calendar event to be updated](https://it.umn.edu/training-events](https://tdx.umn.edu/TDClient/31/Portal/Requests/ServiceDet?ID=475) from the Code People morning meeting to the Happy Hour event
+- [ ] If it's a Happy Hour, then [request the IT@UMN calendar event to be updated](https://tdx.umn.edu/TDClient/31/Portal/Requests/ServiceDet?ID=475) from the Code People morning meeting to the Happy Hour event
 
 ### When Final Agenda is Received from Talk Coordinator
 - [ ] Update code-people.github.io 
