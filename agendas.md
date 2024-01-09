@@ -10,6 +10,10 @@ Roles
 
 ## March
 - Splunk Logging Ian https://github.umn.edu/code-people/meetings/issues/285
+- ?? Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
+
+## April
+- Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
 
 ## Future
 
