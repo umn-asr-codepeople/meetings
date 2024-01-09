@@ -1,12 +1,15 @@
 # Code People Monthly Meetings
 
-## January
-- Happy Hour, Malcolm Yards
+## Feb
+- ???
 
 Roles
-- MC: Rose
-- Issue Responder: Travis
-- Calendar Coordinator: Tonu
+- MC:
+- Issue Responder:
+- Calendar Coordinator:
+
+## March
+- Splunk Logging Ian https://github.umn.edu/code-people/meetings/issues/285
 
 ## Future
 
