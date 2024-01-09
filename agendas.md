@@ -1,12 +1,12 @@
 # Code People Monthly Meetings
 
 ## Feb
-- ???
+- No meeting
 
 Roles
-- MC:
-- Issue Responder:
-- Calendar Coordinator:
+- MC: N/A
+- Issue Responder: Shawn 
+- Calendar Coordinator: Brian
 
 ## March
 - Splunk Logging Ian https://github.umn.edu/code-people/meetings/issues/285
