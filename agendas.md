@@ -1,13 +1,5 @@
 # Code People Monthly Meetings
 
-## Feb
-- No meeting
-
-Roles
-- MC: N/A
-- Issue Responder: Shawn 
-- Calendar Coordinator: Brian
-
 ## March
 - Splunk Logging Ian https://github.umn.edu/code-people/meetings/issues/285
 - ?? Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
