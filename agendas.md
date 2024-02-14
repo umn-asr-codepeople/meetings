@@ -1,8 +1,12 @@
 # Code People Monthly Meetings
 
 ## March
-- Splunk Logging Ian https://github.umn.edu/code-people/meetings/issues/285
+- Splunk Logging - Ian Whitney https://github.umn.edu/code-people/meetings/issues/285
 - Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
+
+Lightning Talks:
+- GA on public Github - Travis Sobeck
+- Campus Code Fest 2024 - Shawn Isenhart
 
 ## April
 - Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
