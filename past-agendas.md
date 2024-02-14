@@ -1,5 +1,11 @@
 # Past Meeting Agenda
 
+## February
+No meeting
+
+## January
+Happy Hour!
+
 ## December
 - Testing in Production, Davin Lagerroos
 - AT Tools' Ansible: An Analysis for Improvement, Clem Smith
