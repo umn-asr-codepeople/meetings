@@ -8,6 +8,11 @@ Lightning Talks:
 - GA on public Github - Travis Sobeck
 - Campus Code Fest 2024 - Shawn Isenhart
 
+Roles
+- MC: Shawn
+- Issue Responder: Tonu 
+- Talk Coordinator: Travis
+
 ## April
 - Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
 
