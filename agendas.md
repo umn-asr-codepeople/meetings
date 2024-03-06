@@ -5,7 +5,7 @@
 - Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
 
 Lightning Talks:
-- GA on public Github - Travis Sobeck
+- [GA on public Github](https://docs.google.com/presentation/d/1SAOfgULOD26C3NCjaQOaOySX0rlhfnHat1dlle8M5r4) - Travis Sobeck
 - Campus Code Fest 2024 - Shawn Isenhart
 
 Roles
