@@ -1,7 +1,7 @@
 # Code People Monthly Meetings
 
 ## March
-- Splunk Logging - Ian Whitney https://github.umn.edu/code-people/meetings/issues/285
+- Splunk Logging - Ian Whitney https://github.umn.edu/code-people/meetings/issues/285 [Presentation Slides](https://z.umn.edu/splunk_data_presentation)
 - Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
 
 Lightning Talks:
