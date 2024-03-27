@@ -1,5 +1,14 @@
 # Past Meeting Agenda
 
+## March
+- Splunk Logging - Ian Whitney https://github.umn.edu/code-people/meetings/issues/285 [Presentation Slides](https://z.umn.edu/splunk_data_presentation)
+- Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
+
+Lightning Talks:
+- [GA on public Github](https://docs.google.com/presentation/d/1SAOfgULOD26C3NCjaQOaOySX0rlhfnHat1dlle8M5r4) - Travis Sobeck
+- Campus Code Fest 2024 - Shawn Isenhart
+- Secrets Management Update - Agnes Dinger
+
 ## February
 No meeting
 
