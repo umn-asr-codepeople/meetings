@@ -1,23 +1,21 @@
 # Code People Monthly Meetings
 
-## March
-- Splunk Logging - Ian Whitney https://github.umn.edu/code-people/meetings/issues/285 [Presentation Slides](https://z.umn.edu/splunk_data_presentation)
-- Traefik/Docker in production - Nate Morse(morse255@umn.edu) https://github.umn.edu/code-people/meetings/issues/276
+## April
+
+- Accessibility Tooling for Ruby on Rails - Joe Thor
+- RHEL9 New Security and Management Features - Carter Kindley
 
 Lightning Talks:
-- [GA on public Github](https://docs.google.com/presentation/d/1SAOfgULOD26C3NCjaQOaOySX0rlhfnHat1dlle8M5r4) - Travis Sobeck
-- Campus Code Fest 2024 - Shawn Isenhart
+- Campus Code Fest 2024: https://z.umn.edu/ccf24 - Shawn Isenhart
 
 Roles
-- MC: Shawn
-- Issue Responder: Tonu 
-- Talk Coordinator: Travis
-
-## April
-- Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
+- MC: Travis
+- Issue Responder: Tonu
+- Talk Coordinator: Shawn
 
 ## Future
 
+- Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
 - Discussion around Format of meetings.
   - Look at alternative locations with better parking, possible different times (morning or around lunch?). 
   - Piggy back off Colin's coffee time (transition to lunch?)  
