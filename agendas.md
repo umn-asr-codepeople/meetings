@@ -7,6 +7,7 @@
 
 Lightning Talks:
 - Campus Code Fest 2024: https://z.umn.edu/ccf24 - Shawn Isenhart
+- Creating Docs Sites with Github pages and Actions
 
 Roles
 - MC: Travis
