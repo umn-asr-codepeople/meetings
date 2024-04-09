@@ -1,20 +1,5 @@
 # Code People Monthly Meetings
 
-## April
-
-- Accessibility Tooling for Ruby on Rails - Joe Thor
-- RHEL9 New Security and Management Features - Carter Kindley
-
-Lightning Talks:
-- Campus Code Fest 2024: https://z.umn.edu/ccf24 - Shawn Isenhart
-- [XZ Backdoor CVE-2024-3094](https://openssf.org/blog/2024/03/30/xz-backdoor-cve-2024-3094/) - Chris Bongaarts
-- Creating Docs Sites with Github pages and Actions
-
-Roles
-- MC: Travis
-- Issue Responder: Tonu
-- Talk Coordinator: Shawn
-
 ## Future
 
 - Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
