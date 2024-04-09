@@ -1,5 +1,18 @@
 # Code People Monthly Meetings
 
+## May
+
+Cancelled - PI planning week
+
+## June
+
+Knowledge sharing: https://github.umn.edu/code-people/meetings/issues/163
+
+## July
+
+Happy Hour!
+
+
 ## Future
 
 - Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
