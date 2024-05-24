@@ -2,7 +2,12 @@
 
 ## June
 
-Knowledge sharing: https://github.umn.edu/code-people/meetings/issues/163
+9:30 - 10:30: Knowledge sharing: https://github.umn.edu/code-people/meetings/issues/163
+9:30 - 9:45: Introduce topics and breakout rooms
+9:45 - 10:15: Discussion
+10:15 - 10:30: Reporting back
+10:30 - 10:45: Lightning talks
+10:45 - 11:00: Final business/announcements/etc
 
 ## July
 
