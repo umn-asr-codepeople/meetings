@@ -1,9 +1,5 @@
 # Code People Monthly Meetings
 
-## May
-
-Cancelled - PI planning week
-
 ## June
 
 Knowledge sharing: https://github.umn.edu/code-people/meetings/issues/163
