@@ -9,6 +9,10 @@
 - 10:30 - 10:45: Lightning talks
 - 10:45 - 11:00: Final business/announcements/etc
 
+Roles
+- MC: Shawn
+- Issue Responder: Tonu
+
 ## July
 
 Happy Hour!
