@@ -1,5 +1,9 @@
 # Past Meeting Agenda
 
+## May
+
+Cancelled - PI planning week
+
 ## April
 
 - Accessibility Tooling for Ruby on Rails - Joe Thor
