@@ -7,6 +7,8 @@
 - 9:45 - 10:15: Discussion
 - 10:15 - 10:30: Reporting back
 - 10:30 - 10:45: Lightning talks
+  - Secrets Management RFP and implementation plan update (Nick Espinosa)
+  - Campus Codefest 2024 registration (Shawn Isenhart)
 - 10:45 - 11:00: Final business/announcements/etc
 
 Roles
