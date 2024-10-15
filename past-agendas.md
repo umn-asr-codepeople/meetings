@@ -2,25 +2,9 @@
 
 # Code People Monthly Meetings
 
-## June
-
-- 9:30 - 10:30: Knowledge sharing: https://github.umn.edu/code-people/meetings/issues/163
-- 9:30 - 9:45: Introduce topics and breakout rooms
-- 9:45 - 10:15: Discussion
-- 10:15 - 10:30: Reporting back
-- 10:30 - 10:45: Lightning talks
-  - Secrets Management RFP and implementation plan update (Nick Espinosa)
-  - Campus Codefest 2024 registration (Shawn Isenhart)
-- 10:45 - 11:00: Final business/announcements/etc
-
 Roles
 - MC: Shawn
 - Issue Responder: Tonu
-
-## July
-
-Happy Hour!
-
 
 ## Future
 
@@ -33,6 +17,30 @@ Happy Hour!
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
 - Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
 - Lightning talk: reminder that certificates will start expiring every 3 months soon
+
+## September
+
+Accessibility Title II talk - Khaled & Luke
+Introduction to Boomi - Tonu
+
+## August
+
+Skipped for Campus Codefest
+
+## July
+
+Happy Hour!
+
+## June
+
+- 9:30 - 10:30: Knowledge sharing: https://github.umn.edu/code-people/meetings/issues/163
+- 9:30 - 9:45: Introduce topics and breakout rooms
+- 9:45 - 10:15: Discussion
+- 10:15 - 10:30: Reporting back
+- 10:30 - 10:45: Lightning talks
+  - Secrets Management RFP and implementation plan update (Nick Espinosa)
+  - Campus Codefest 2024 registration (Shawn Isenhart)
+- 10:45 - 11:00: Final business/announcements/etc
 
 
 ## May
