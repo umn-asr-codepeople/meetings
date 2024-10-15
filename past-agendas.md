@@ -18,6 +18,10 @@ Roles
 - Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
 - Lightning talk: reminder that certificates will start expiring every 3 months soon
 
+## October
+
+No meeting
+
 ## September
 
 Accessibility Title II talk - Khaled & Luke
