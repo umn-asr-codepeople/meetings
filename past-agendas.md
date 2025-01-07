@@ -17,7 +17,22 @@ Roles
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
 - Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
 - Lightning talk: reminder that certificates will start expiring every 3 months soon
-- 
+
+## Feb
+Skip Due to PI Planning in OIT
+
+## Jan 2025
+Happy Hour
+
+## December
+- 9:35-09:55 - Policy Office Case Study of Making Website Accessible - Eva Young
+- 10:00-10:30 - Lightning Talks
+
+Roles
+- MC: Joe
+- Issue Responder: Shawn
+- Talk Coordinator: Shawn
+  
 ## November
 - Introduction and Best Practices Github Actions - Travis Sobeck, Amanda Shook, Katherine Spalding (DevEx Team)
 - Health Sciences Technology Accessibility Day - Joe Thor
