@@ -9,7 +9,8 @@
 ## March
 - 9:35-09:55?? - Quantum Computing - where are we at? - Cosmin Harjan
 - 10:00-10:30 - Lightning Talks
-  - Devex: Intro to AAP 2.5  
+  - Devex: Intro to AAP 2.5
+  - More Open Conversation around AI
 
 Roles
 - MC: Travis
