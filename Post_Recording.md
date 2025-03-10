@@ -1,6 +1,6 @@
-- Log into codepplc@umn.edu [Zoom account](zoom.umn.edu).
+- Log into codepplc@umn.edu [Zoom account](zoom.umn.edu) to Download the raw video
   - (Password in LastPass)
-- Recordings & Transcripts > Download the largest recording file that corresponds to the meeting date.
+  - Recordings & Transcripts > Download the largest recording file that corresponds to the meeting date.
 - Trim the video. (use tool of choice)
 - Open mediaspace.umn.edu with the codepplc account.
   - Upload the video and give it a title and description. Choose “unlisted” for publishing options
