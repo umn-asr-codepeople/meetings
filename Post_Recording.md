@@ -1,4 +1,4 @@
-- Log into codepplc@umn.edu Zoom account. I configured a Chrome profile with codepplc@umn.edu login credentials. I open the Chrome profile and go to zoom.umn.edu
+- Log into codepplc@umn.edu Zoom account. (Password in LastPass)
 - Download the largest recording file that corresponds to the meeting date.
 - Trim the video. I use the 
 - Open mediaspace.umn.edu with the codepplc account.
