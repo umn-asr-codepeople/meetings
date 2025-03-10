@@ -1,4 +1,5 @@
-- Log into codepplc@umn.edu Zoom account. (Password in LastPass)
+- Log into codepplc@umn.edu [Zoom account](zoom.umn.edu).
+  - (Password in LastPass)
 - Recordings & Transcripts > Download the largest recording file that corresponds to the meeting date.
 - Trim the video. (use tool of choice)
 - Open mediaspace.umn.edu with the codepplc account.
