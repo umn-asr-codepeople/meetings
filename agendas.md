@@ -7,9 +7,9 @@
   - Consider an Open Conversation with during meeting to get a sense of how many folks are working through this and what stratagies have folks been trying
 
 ## April 3 2025
-
+tbd - no planned talks
 
 ## May 1 2025
-
+tbd - no planned talks 
 
 ## June 5 2025
