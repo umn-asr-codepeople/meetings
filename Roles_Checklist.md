@@ -41,3 +41,4 @@ Collaborate with MC to get the meeting together
 # New Issue Coordinator Checklist
 - [ ] Respond to new [issues](https://github.umn.edu/code-people/meetings/issues) as they come in
 - [ ] Add them to the [Talk Tracking project](https://github.umn.edu/orgs/code-people/projects/2)
+- [ ] Upload Video to website [Notes](./Post_Recording.md)
