@@ -1,10 +1,6 @@
 # Past Meeting Agenda
 
-# Code People Monthly Meetings
-
-Roles
-- MC: Shawn
-- Issue Responder: Tonu
+## Code People Monthly Meetings
 
 ## Future
 
@@ -18,7 +14,20 @@ Roles
 - Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
 - Lightning talk: reminder that certificates will start expiring every 3 months soon
 
-## Feb
+----
+
+## March 2025 
+- 9:35-09:55 - Quantum Computing - where are we at? - Cosmin Harjan
+- 10:00-10:30 - Lightning Talks
+  - Devex: Intro to AAP 2.5
+  - More Open Conversation around AI (in ref to https://github.umn.edu/code-people/meetings/issues/275)
+
+Roles
+- MC: Travis
+- Issue Responder: Joe
+- Talk Coordinator: Shawn
+
+## Feb 2025
 Skip Due to PI Planning in OIT
 
 ## Jan 2025
