@@ -1,0 +1,12 @@
+- Log into codepplc@umn.edu [Zoom account](zoom.umn.edu) to Download the raw video
+  - (Password in LastPass)
+  - Recordings & Transcripts > Download the largest recording file that corresponds to the meeting date.
+- Trim the video. (use tool of choice)
+- Open mediaspace.umn.edu with the codepplc account.
+  - Upload the video and give it a title and description. Choose “unlisted” for publishing options
+  - Go to “Downloads” tab and allow downloading of all the formats
+  - Copy the URL of the recording
+- Go to the [Code People website’s Git repository](https://github.com/code-people/code-people.github.io)
+  - Update the webpage 
+    - Add recording URL - recording_url: 
+    - Change to “meeting”
