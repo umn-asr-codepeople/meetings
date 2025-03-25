@@ -13,7 +13,7 @@ assignees: ''
 **What will be the title?**
 
 
-**Wow long do you need? (estimate is fine)**
+**How long do you need? (estimate is fine)**
 
 
 **Who is the primary audience?**
