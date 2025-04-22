@@ -1,24 +1,15 @@
 Subject: {{ .Month }} {{ .Day }} Meeting
 
-Please join us for our September meeting!  We've got some great talks, and donuts!
+Please join us for our <FILL IN MONTH>. meeting!  We've got some great talks!
 
 Agenda:
 
-9:30 - 9:50 NoSQL Database Explorations, Alison Link
-9:50 - 10:20 Cargo Cult, John Trammel
-10:20 - 10:40 Group Discussions
-Software Development Workflows
-Inclusive (Non-Happy Hour Based) Social Event Brainstorming
-Other Topics?
-10:40 - 11:00 lightning talks
-Templates in Service Now (Andy Wattenhoffer)
-Invite your analysts!  They're code-people too.  (Jack Brown)
-Your Talk Here!
-Location:
+9:30 - 10:40 <FILL IN>
 
-Location: Walter Library, Room 402
-Day: Thursday, September 6
-Time: 9:30 - 11:00
+10:40 - 11:00 lightning talks
+
+What makes Code People work is contributions from Everyone.  We Encourage everyone to participate and share. Code People is open-source just like our software, we need your contributions to succeed!
+[Sign Up to Give a Talk!](https://github.umn.edu/code-people/meetings/issues/new?assignees=&labels=Presentation&projects=&template=give-a-talk.md&title=Give+a+talk
 
 Attend online:
 z.umn.edu/cpmstream
