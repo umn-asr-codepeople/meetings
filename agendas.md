@@ -9,7 +9,8 @@
 ## July Happy Hour (Code Fest will be this month so push HH to July)
 
 ## June ??
-
+ - Traefik (Nate Morse - ASR)?
+ - Real time Messaging/Notifications w/rails (Joe/Chris HST)?
 
 Roles
 - MC: Travis
