@@ -6,6 +6,12 @@
   - In this case, Weapp implies more dynamic data (db backend possibly) vs static and sitting behind Login
   - Consider an Open Conversation with during meeting to get a sense of how many folks are working through this and what stratagies have folks been trying
 
+## Sept
+- [Its transistors all the way down!](https://github.umn.edu/code-people/meetings/issues/311)
+
+## Aug
+- [Custom Terraform Provider Development](https://github.umn.edu/code-people/meetings/issues/310)
+  
 ## July Happy Hour (Code Fest will be this month so push HH to July)
 
 ## June ??
