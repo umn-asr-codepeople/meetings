@@ -21,8 +21,9 @@
 ## July Happy Hour (Code Fest will be this month so push HH to July)
 
 ## June 
- - Real time Messaging/Notifications w/ Rails (Joe/Chris HST)
- - [Announcing the General Availability of HashiCorp Vault for the UMN IT Community](https://github.umn.edu/code-people/meetings/issues/312)
+ - Real time Messaging/Notifications w/ Rails (Joe Thor/Chris Dinger HST)
+ - [Announcing the General Availability of HashiCorp Vault for the UMN IT Community](https://github.umn.edu/code-people/meetings/issues/312) (Agnes Dinger/Curtis Kronlund OIT)
+ - Scholarship Search: Containerized Shibboleth Authentication with NGINX (Nate Morse ASR)
 
 ### Roles
 - MC: Shawn
