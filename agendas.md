@@ -11,14 +11,20 @@
 
 ## Aug
 - [Custom Terraform Provider Development](https://github.umn.edu/code-people/meetings/issues/310)
+- Tentative: [Learning to program for independent research in the Social Sciences](https://github.umn.edu/code-people/meetings/issues/313)
+
+### Roles
+- MC: Joe
+- Issue Responder: Travis
+- Talk Coordinator: Shawn
   
 ## July Happy Hour (Code Fest will be this month so push HH to July)
 
-## June ??
- - Traefik (Nate Morse - ASR)?
- - Real time Messaging/Notifications w/rails (Joe/Chris HST)?
+## June 
+ - Real time Messaging/Notifications w/ Rails (Joe/Chris HST)
+ - [Announcing the General Availability of HashiCorp Vault for the UMN IT Community](https://github.umn.edu/code-people/meetings/issues/312)
 
-Roles
-- MC: Travis
+### Roles
+- MC: Shawn
 - Issue Responder: Joe
-- Talk Coordinator: Shawn
+- Talk Coordinator: Tonu
