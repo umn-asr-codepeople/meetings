@@ -10,20 +10,25 @@ Roles
 
 - Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
 - Discussion around Format of meetings.
-  - Look at alternative locations with better parking, possible different times (morning or around lunch?). 
-  - Piggy back off Colin's coffee time (transition to lunch?)  
+  - Look at alternative locations with better parking, possible different times (morning or around lunch?).
+  - Piggy back off Colin's coffee time (transition to lunch?)
   - On-line provides better access to those with disabilities.
 - [Working style discussion w/breakout sessions](https://github.umn.edu/code-people/meetings/issues/163)
 - [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
 - Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
 - Lightning talk: reminder that certificates will start expiring every 3 months soon
 
+## June
+ - Real time Messaging/Notifications w/ Rails (Joe Thor/Chris Dinger HST)
+ - [Announcing the General Availability of HashiCorp Vault for the UMN IT Community](https://github.umn.edu/code-people/meetings/issues/312) (Agnes Dinger/Curtis Kronlund OIT)
+ - Scholarship Search: Containerized Shibboleth Authentication with NGINX (Nate Morse ASR)
+
 ## March
 - 9:35-09:55?? - Quantum Computing - where are we at? - Cosmin Harjan
 - 10:00-10:30 - Lightning Talks
   - Devex: Intro to AAP 2.5
   - More Open Conversation around AI (in ref to https://github.umn.edu/code-people/meetings/issues/275)
-  
+
 ## Feb
 Skip Due to PI Planning in OIT
 
@@ -38,7 +43,7 @@ Roles
 - MC: Joe
 - Issue Responder: Shawn
 - Talk Coordinator: Shawn
-  
+
 ## November
 - Introduction and Best Practices Github Actions - Travis Sobeck, Amanda Shook, Katherine Spalding (DevEx Team)
 - Health Sciences Technology Accessibility Day - Joe Thor
@@ -142,7 +147,7 @@ Lightning talks:
   - Rememberence of Jack (Brian to reach out to CCS) TBD
 
 ## July 6th, 2023
- 
+
 - Happy Hour!
 
 ## June 1st, 2023
@@ -186,7 +191,7 @@ Roles
 - lightning talks
 
 Roles:
-- MC: Brian 
+- MC: Brian
 - Talk Coordinator: Travis
 - Issue Responder: Shawn
 
@@ -288,7 +293,7 @@ Roles:
   - The common API catalog
   - Q & A
   - Presenters Dan Wagner <wagne025@umn.edu>, Phani Kandalam <pkandala@umn.edu>
-- [Codies](https://github.umn.edu/code-people/meetings/issues/196) (Davin) 
+- [Codies](https://github.umn.edu/code-people/meetings/issues/196) (Davin)
 - Lightning Talks
   - [Announce Festivus](https://github.umn.edu/code-people/meetings/issues/212#issuecomment-77530) (Travis)
   - Discuss Jan Happy Hour Options
@@ -313,7 +318,7 @@ Roles:
 
 - [Creating an Accessibility Testing Plan](https://github.umn.edu/code-people/meetings/issues/202) Jen DeMesquita confirme - 45 min with time for questions.
 - [A lo-fi technique for evaluating JavaScript performance](https://github.umn.edu/code-people/meetings/issues/194) Tony Thomas confirmed - 20 min.
- 
+
 ## July 1, 2021
 
 - Zoom/Outdoor Social Gathering
@@ -360,7 +365,7 @@ Roles:
     - use an online game and play together in the meeting (Davin)
     - MC: Tony
     - set up Zoom meeting (Time: 4pm) - DONE
-    
+
 ## 3 Dec 2020
 
 - [Intro to UMN Github](https://docs.google.com/presentation/d/1iFzXYps11TngQBNJM8XDnZdAgw94htL5MT4TXzl_qpc/edit?usp=sharing)
@@ -368,7 +373,7 @@ Roles:
 - Lightning Talks
   - [Execute Program](https://www.executeprogram.com/)
 
-## 5 Nov 2020 
+## 5 Nov 2020
 - [azdevops Pipelines](https://github.umn.edu/code-people/meetings/issues/172) (Travis)
 - [How we built it: Roomsearch](https://github.umn.edu/code-people/meetings/issues/174) (Tony and Davin)
 - Lightning Talks
@@ -397,14 +402,14 @@ Roles:
     - [mkdocs](https://www.mkdocs.org/) AzDevOps Pipeline - Peter B.
  - Roles
    - MC - Travis
-   - Talk Coordinator - Chris 
+   - Talk Coordinator - Chris
    - New Issue Respondor - Tonu
 
-## 6 August 2020 
+## 6 August 2020
 - Introductions
 - Confirmed
   - [How We Built It: ChimeIn 2](https://github.umn.edu/code-people/meetings/issues/143)
-  - Oracle database upgrade program (5-10 min) - Rafael Santos, OIT 
+  - Oracle database upgrade program (5-10 min) - Rafael Santos, OIT
   - Lightning Talks
     - New "SQL Advisor" Tool - Brad Carlson, OIT
 - Tentative
@@ -499,7 +504,7 @@ Roles:
 - 10:00 - Break
 - 10:15 - [Authentication, Access, and Account Management Standards](https://github.umn.edu/code-people/meetings/issues/145) - (confirmed)
 - 10:45 Lightning Talks
-  
+
 Roles:
 - MC: Tonu
 - Talk Coordinator: Chris
@@ -513,8 +518,8 @@ Roles:
 - 10:10 - Break
 - 10:20 - [Canvas Initiatives](https://github.umn.edu/code-people/meetings/issues/138) - (confirmed)
 - 10:45 Lightning Talks
-   - Drupal Management Tool - (tentative) 
-  
+   - Drupal Management Tool - (tentative)
+
 Roles:
 - MC: Eva
 - Talk Coordinator: Davin
@@ -527,12 +532,12 @@ Roles:
 - 9:35 - [DB Column Ordering and Table Design](https://github.umn.edu/code-people/meetings/issues/53) - (confirmed)
 - 9:50 - [Background Async Tasks in Ansible](https://github.umn.edu/code-people/meetings/issues/140) - (confirmed)
 - 10:00 - Break
-- 10:10 - [Cloud Services Initiatives](https://github.umn.edu/code-people/meetings/issues/137) - (confirmed) 
+- 10:10 - [Cloud Services Initiatives](https://github.umn.edu/code-people/meetings/issues/137) - (confirmed)
 - 10:30 Lightning Talks
    - [Harmful Software Installations](https://github.umn.edu/code-people/meetings/issues/139) - (confirmed)
    - [DB Column Ordering](https://github.umn.edu/code-people/meetings/issues/53) - (tentative)
    - Campus Codefest Projects
-   
+
 Roles:
 - MC: Chris
 - Talk Coordinator: Tonu
@@ -546,27 +551,27 @@ Roles:
 - 10:10 - Break
 - 10:20 - [Linux Performance Metrics](https://github.umn.edu/code-people/meetings/issues/127) - (confirmed)
 - 10:45 Lightning Talks
-   - Drupal Site Management (Jim Hart) 
-   
+   - Drupal Site Management (Jim Hart)
+
 Roles:
 - MC: Chris
 - Talk Coordinator: Davin
 - Issue Responder: Tonu?
 
 ## July 11 Happy Hour - Looking at Surly
-  
+
 ## June 6 2019
 
 **Location change - Bruininks 131B**
 
 - 9:30 - Introductions
 - 9:35 - [Getting started building an LTI](https://github.umn.edu/code-people/meetings/issues/108) - Colin McFadden (confirmed)
-- 9:55 - [Using Docker for Development and Deployment of Off the Shelf Software](https://github.umn.edu/code-people/meetings/issues/124) - Travis Sobeck (confirmed) 
+- 9:55 - [Using Docker for Development and Deployment of Off the Shelf Software](https://github.umn.edu/code-people/meetings/issues/124) - Travis Sobeck (confirmed)
 - 10:20 - Break
 - 10:25 - [How It Works: The Anatomy of the Testing Request Form](https://github.umn.edu/code-people/meetings/issues/94) - Tonu Mikk (Confirmed)
 - 10:40 Lightning Talks
-   - Drupal Site Management (Jim Hart) 
-  
+   - Drupal Site Management (Jim Hart)
+
 Roles:
 - MC: Davin
 - Talk Coordinator: Jack
@@ -598,7 +603,7 @@ No Meeting - Tech People on April 30
   - Scanning and OCR (Tonu)
 
 ## 7 February 2019 (MC Davin)
-- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR) (20 minutes) 
+- [Using GitHub v4 API to build a Repository Inventory](https://github.umn.edu/code-people/meetings/issues/71) - tentative - (ASR) (20 minutes)
 - [Using Google Calendar API and Google OAuth](https://github.umn.edu/code-people/meetings/issues/105) - tentative (Tonu Mikk) (20 minutes)
 - Lightning Talks
   - ???
@@ -611,8 +616,8 @@ No Meeting - Tech People on April 30
 - Create invitation for online RSVP (simple goodle form - check for )
 
 ## 3 January 2019 (Jack to reserve [15-20] - Jack "MC")
-- Happy Hour @ Town Hall Brewery 4:00-6:30   
-  
+- Happy Hour @ Town Hall Brewery 4:00-6:30
+
 ## 15 November 2018
 - Tech People!
 
@@ -669,7 +674,7 @@ No Meeting - Tech People on April 30
  - No meeting, TechPeople!
  - 11 April 2018 -- Mayo Auditorium
 
-## March 1, 2018 
+## March 1, 2018
  - (Tentative -- needs planning) Discussion on "When do you Rebuild versus Refactor?"
    - TODO: Notes from 1st session (Jack)
    - TODO: Schedule next session (Robert)
@@ -682,7 +687,7 @@ No Meeting - Tech People on April 30
     - UMN People Lookup GEM - Robert
     - Database Upgrade (Andy/DBAs)
     - Extended VarChar & CLOB conversion (Andy/DBAs)
- 
+
 ## January 4, 2018: Happy Hour
   - Town Hall, Davin handling reservations.
   - appoximately 15 people showed
@@ -721,7 +726,7 @@ No Meeting - Tech People on April 30
   - Lightning talks
     - Committee members - Ian
     - Cargo Cult - John T.
-    - CCF - Chad  
+    - CCF - Chad
 
 ## April 6 (MC Davin)
   - Peoplesoft Query as a Service - Jeremy Irrthum 20min [#6](https://github.umn.edu/code-people/meetings/issues/6) (confirmed)
@@ -792,13 +797,13 @@ No Meeting - Tech People on April 30
   - Committee Introduction (2 minutes)
   - Data Modeling - Mark Skweres (confirmed by Ian) - 20 minutes
   - Eyeo Festival Overview (10 min Theresa)
-  - Tom Enebo - JRuby 45-60 
+  - Tom Enebo - JRuby 45-60
   - Lightning Talks (remaining)
     - CCF reminder (Chad, Michael)
     - CCF Project pitches
     - PaaS (Maybe, Michael Bearfoot)
   - Lunch: Plaza (Punch as rain backup)
-  - 
+  -
 
 ## Brown Bags
 ### Web Accessibility, September 15 2016
