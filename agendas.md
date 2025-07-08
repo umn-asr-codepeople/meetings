@@ -11,6 +11,7 @@
 
 ## Aug
 - [Custom Terraform Provider Development](https://github.umn.edu/code-people/meetings/issues/310)
+- Tentative: [DocumentAItion or: How I Learned to Escape the Drudgery and Love AI](https://github.umn.edu/code-people/meetings/issues/319)
 - Tentative: [Learning to program for independent research in the Social Sciences](https://github.umn.edu/code-people/meetings/issues/313)
 
 ### Roles
