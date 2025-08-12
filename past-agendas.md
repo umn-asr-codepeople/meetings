@@ -2,21 +2,18 @@
 
 # Code People Monthly Meetings
 
-Roles
-- MC: Shawn
-- Issue Responder: Tonu
 
 ## Future
+- "how to open source our work" 
 
-- Pair programming and knowledge sharing discussion https://github.umn.edu/code-people/meetings/issues/163
-- Discussion around Format of meetings.
-  - Look at alternative locations with better parking, possible different times (morning or around lunch?).
-  - Piggy back off Colin's coffee time (transition to lunch?)
-  - On-line provides better access to those with disabilities.
-- [Working style discussion w/breakout sessions](https://github.umn.edu/code-people/meetings/issues/163)
-- [Building a better presentation](https://github.umn.edu/code-people/meetings/issues/150)
-- Future Options for Happy Hours: Keg and Case Market, 7th Street West, Saint Paul, MN :: La Doña Cervecería Brewery, Fremont Avenue North, Minneapolis, MN
-- Lightning talk: reminder that certificates will start expiring every 3 months soon
+## Aug
+- [Custom Terraform Provider Development](https://github.umn.edu/code-people/meetings/issues/310)
+- Tentative: [Learning to program for independent research in the Social Sciences](https://github.umn.edu/code-people/meetings/issues/313)
+
+
+## July 
+- no meeting (Code Fest will be this month)
+
 
 ## June
  - Real time Messaging/Notifications w/ Rails (Joe Thor/Chris Dinger HST)
