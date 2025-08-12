@@ -9,6 +9,7 @@ assignees: ''
 
 ## Agenda
 - [ ] Review the next few months' meetings to make sure they follow the Code People meeting
+  - [ ] Also look-up dates of [PI planning](https://z.umn.edu/PI-Calendar) for OIT 
 - [ ] Clear out the [old meeting agenda](https://github.umn.edu/code-people/meetings/blob/master/agendas.md) and copy it to [past agendas](https://github.umn.edu/code-people/meetings/blob/main/past-agendas.md)
 - [ ] Determine the agenda for the [next CP meeting](https://github.umn.edu/code-people/meetings/blob/master/agendas.md)
 - [ ] Assign roles for the next CP meeting
