@@ -9,6 +9,7 @@
 ## Sept (9/4/2025)
 - [How Computers Really Work Book Report](https://github.umn.edu/code-people/meetings/issues/311)
 - [SSH Key Management with Hashicorp Vault](https://github.umn.edu/code-people/meetings/issues/322)
+- [HashiCorp Vault Panel](https://github.umn.edu/code-people/meetings/issues/324)
 
 ### Roles
 - Issue Responder: Joe 
