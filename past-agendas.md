@@ -4,11 +4,38 @@
 
 
 ## Future
-- "how to open source our work" 
+- "how to open source our work"
+
+
+## Sept (9/4/2025)
+- [How Computers Really Work Book Report](https://github.umn.edu/code-people/meetings/issues/311)
+- [SSH Key Management with Hashicorp Vault](https://github.umn.edu/code-people/meetings/issues/322)
+- [HashiCorp Vault](https://github.umn.edu/code-people/meetings/issues/324)
+  - Panel
+    - Chris Dinger
+    - Isaiah Herr
+    - Alex Morford
+    - Nate Morse
+  - Moderator
+    - Joe Thor
+
+### Lighting Talk 
+- Github Migration
+```
+Github.umn.edu decommission 
+9/8/25: Official Announcement 
+1/8/26: Reminder Communication
+11/4/26: GitHub.umn.edu move to read-only
+5/5/27: GitHub.umn.edu sunset
+kronlund@umn.edu
+```
+
+
+
 
 ## Aug
 - [Custom Terraform Provider Development](https://github.umn.edu/code-people/meetings/issues/310)
-- Tentative: [Learning to program for independent research in the Social Sciences](https://github.umn.edu/code-people/meetings/issues/313)
+- [Learning to program for independent research in the Social Sciences](https://github.umn.edu/code-people/meetings/issues/313)
 
 
 ## July 
