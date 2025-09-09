@@ -8,7 +8,6 @@
 
 - "how to open source our work"
 
-
 ## Oct
 - [Metaprogramming in Ruby](https://github.umn.edu/code-people/meetings/issues/223)
 - [Vibecoding with AI](https://github.umn.edu/code-people/meetings/issues/326)
