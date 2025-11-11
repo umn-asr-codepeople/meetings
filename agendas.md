@@ -8,18 +8,15 @@
 
 - "how to open source our work"
 
-## Oct
-- [Metaprogramming in Ruby](https://github.umn.edu/code-people/meetings/issues/223)
+## December 4th
+- [Building a Container Image with GitHub Actions -- Alex M.](https://github.umn.edu/code-people/meetings/issues/331)
 - [Vibecoding with AI](https://github.umn.edu/code-people/meetings/issues/326)
+
+- Discuss with Shawn - [Metaprogramming in Ruby](https://github.umn.edu/code-people/meetings/issues/223)
 
 
 ### Roles
-- Issue Responder: Tonu 
+- Issue Responder: Travis 
 - MC: Joe
-- Digital Archivist: Joe
-- Talk Coordinator: Shawn 
-
-## Nov
-- TBD
-## Dec 
-- TBD
+- Digital Archivist: Tonu
+- Talk Coordinator: Joe
