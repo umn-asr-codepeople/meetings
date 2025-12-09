@@ -5,7 +5,10 @@
 
 ## Future
 - "how to open source our work"
-
+  
+## December 4th
+- [Building a Container Image with GitHub Actions -- Alex M.](https://github.umn.edu/code-people/meetings/issues/331)
+- [Vibecoding with AI](https://github.umn.edu/code-people/meetings/issues/326)
 
 ## Sept (9/4/2025)
 - [How Computers Really Work Book Report](https://github.umn.edu/code-people/meetings/issues/311)
