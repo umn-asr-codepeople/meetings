@@ -1,24 +1,25 @@
 # Code People Monthly Meetings
 
+
+## March 5th, 2026 
+### Agenda
+- [Metaprogramming in Ruby](https://github.umn.edu/code-people/meetings/issues/223) - Shawn
+- [K3S on Hosting Provisioned RHEL 9 vms via ansible/AAP](https://github.umn.edu/code-people/meetings/issues/333) - Li Dai 
+
+### Next couple Months
+
+- [Give a talk: Documentation and AI](https://github.umn.edu/code-people/meetings/issues/319) - Clem
+- Boomi API Development - Tonu (May)
+  
 ## Future
 
 [Issue Title 2 for webapps](https://github.umn.edu/code-people/meetings/issues/300)
   - In this case, Weapp implies more dynamic data (db backend possibly) vs static and sitting behind Login
   - Consider an Open Conversation with during meeting to get a sense of how many folks are working through this and what stratagies have folks been trying
 - "how to open source our work"
-- Discuss with Shawn - [Metaprogramming in Ruby](https://github.umn.edu/code-people/meetings/issues/223)
-
-
-## March 5th, 2026 
-### Agenda
-- TBD
-
-### Next couple Months
-- January 2026 No meeting, University Holiday
-- Feb 2026 falls on OIT PI week, no meeting
 
 ### Roles
 - Issue Responder: Shawn  
-- MC: TBD
-- Digital Archivist: TBD
-- Talk Coordinator: TBD
+- MC: Tonu
+- Digital Archivist: Travis
+- Talk Coordinator: Joe
