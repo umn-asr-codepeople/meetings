@@ -5,7 +5,13 @@
 
 ## Future
 - "how to open source our work"
-  
+
+## Feb 2026
+Fell on OIT PI week, no meeting
+
+## Jan 2026
+No meeting, University Holiday
+
 ## December 4th
 - [Building a Container Image with GitHub Actions -- Alex M.](https://github.umn.edu/code-people/meetings/issues/331)
 - [Vibecoding with AI](https://github.umn.edu/code-people/meetings/issues/326)
