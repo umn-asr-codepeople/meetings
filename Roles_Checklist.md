@@ -35,6 +35,7 @@ Collaborate with MC to get the meeting together
 ## After Code People Meeting:
 - [ ] Update past agendas and add links to presentations
 
+
 ## Tuesday Prior to Code-People Meeting
 - [ ] Send the final meeting agenda to the MC
 
@@ -42,3 +43,7 @@ Collaborate with MC to get the meeting together
 - [ ] Respond to new [issues](https://github.umn.edu/code-people/meetings/issues) as they come in
 - [ ] Add them to the [Talk Tracking project](https://github.umn.edu/orgs/code-people/projects/2)
 - [ ] Upload Video to website [Notes](./Post_Recording.md)
+
+
+# Archivist Checklist 
+[List of duties](https://github.umn.edu/code-people/meetings/blob/main/Post_Recording.md)
