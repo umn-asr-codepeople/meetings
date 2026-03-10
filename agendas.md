@@ -1,10 +1,9 @@
 # Code People Monthly Meetings
 
 
-## March 5th, 2026 
+## April 2nd, 2026
 ### Agenda
-- [Metaprogramming in Ruby](https://github.umn.edu/code-people/meetings/issues/223) - Shawn
-- [K3S on Hosting Provisioned RHEL 9 vms via ansible/AAP](https://github.umn.edu/code-people/meetings/issues/333) - Li Dai 
+- TBD 
 
 ### Next couple Months
 
