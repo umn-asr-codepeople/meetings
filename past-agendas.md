@@ -6,6 +6,10 @@
 ## Future
 - "how to open source our work"
 
+## March 2026 
+- [Metaprogramming in Ruby - Shawn Isenhart](https://github.umn.edu/code-people/meetings/issues/223) 
+- [K3S on Hosting Provisioned RHEL 9 vms via ansible/AAP - Li Dai ](https://github.umn.edu/code-people/meetings/issues/333) 
+
 ## Feb 2026
 Fell on OIT PI week, no meeting
 
