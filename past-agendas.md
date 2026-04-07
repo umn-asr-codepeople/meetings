@@ -2,9 +2,8 @@
 
 # Code People Monthly Meetings
 
-
-## Future
-- "how to open source our work"
+## April 2026
+No meeting, canceled
 
 ## March 2026 
 - [Metaprogramming in Ruby - Shawn Isenhart](https://github.umn.edu/code-people/meetings/issues/223) 
