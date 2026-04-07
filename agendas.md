@@ -1,14 +1,14 @@
 # Code People Monthly Meetings
 
 
-## April 2nd, 2026
+## May 7th, 2026
 ### Agenda
-- TBD 
+- [Terror in the Supply Chain](https://github.umn.edu/code-people/meetings/issues/338) - Willy Lee
+- [IAM Cert Automation](https://github.umn.edu/code-people/meetings/issues/336) - Alec Edgell
 
 ### Next couple Months
 
-- [Give a talk: Documentation and AI](https://github.umn.edu/code-people/meetings/issues/319) - Clem
-- Boomi API Development - Tonu (May)
+- Boomi API Development - Tonu (June)
   
 ## Future
 
@@ -18,7 +18,7 @@
 - "how to open source our work"
 
 ### Roles
-- Issue Responder: Shawn  
-- MC: Tonu
-- Digital Archivist: Travis
-- Talk Coordinator: Joe
+- Issue Responder: Tonu  
+- MC: Shawn
+- Digital Archivist: Alison 
+- Talk Coordinator: Travis
