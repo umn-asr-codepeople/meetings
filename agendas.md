@@ -6,6 +6,12 @@
 
 - UMN Director of Sustainability on AI - (Shane Stennes) [issue](https://github.umn.edu/code-people/meetings/issues/340)
 - Boomi API Development - Tonu (June) [Issue](https://github.umn.edu/code-people/meetings/issues/342)
+
+### Roles
+- Issue Responder: Travis 
+- MC: Tonu
+- Digital Archivist: Alison 
+- Talk Coordinator: Travis
  
 ## Next couple Months
 
@@ -18,8 +24,4 @@
   - Consider an Open Conversation with during meeting to get a sense of how many folks are working through this and what stratagies have folks been trying
 - "how to open source our work"
 
-### Roles
-- Issue Responder: Tonu  
-- MC: Shawn
-- Digital Archivist: Alison 
-- Talk Coordinator: Travis
+
