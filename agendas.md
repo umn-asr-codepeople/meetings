@@ -1,15 +1,16 @@
 # Code People Monthly Meetings
 
 
-## May 7th, 2026
+## June 4th, 2026
 ### Agenda
-- [Terror in the Supply Chain](https://github.umn.edu/code-people/meetings/issues/338) - Willy Lee
-- [IAM Cert Automation](https://github.umn.edu/code-people/meetings/issues/336) - Alec Edgell
 
-### Next couple Months
+- UMN Director of Sustainability on AI - (Shane Stennes) [issue](https://github.umn.edu/code-people/meetings/issues/340)
+- Boomi API Development - Tonu (June) [Issue](https://github.umn.edu/code-people/meetings/issues/342)
+ 
+## Next couple Months
 
-- Boomi API Development - Tonu (June)
-  
+- July Happy Hour
+ 
 ## Future
 
 [Issue Title 2 for webapps](https://github.umn.edu/code-people/meetings/issues/300)
