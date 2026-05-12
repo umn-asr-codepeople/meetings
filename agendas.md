@@ -1,5 +1,9 @@
 # Code People Monthly Meetings
 
+## DISCUSS at next CP Committee meating
+- on-prem GH appliance being depricated, content needs to be moved, need to decicde where code should go
+- if we move it to https://github.com/code-people however then anyone on the internet can subit issues
+- if we put it in the Entrepeise, we'll need to decide on which CESI unit it will fall under and we can move the https://github.com/code-people content there
 
 ## June 4th, 2026
 ### Agenda
