@@ -2,6 +2,11 @@
 
 # Code People Monthly Meetings
 
+## May 7th, 2026
+### Agenda
+- [Terror in the Supply Chain](https://github.umn.edu/code-people/meetings/issues/338) - Willy Lee
+- [IAM Cert Automation](https://github.umn.edu/code-people/meetings/issues/336) - Alec Edgell
+
 ## April 2026
 No meeting, canceled
 
