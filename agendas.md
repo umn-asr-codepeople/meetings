@@ -1,22 +1,19 @@
 # Code People Monthly Meetings
 
-
-## June 4th, 2026
+## September 3rd, 2026
 ### Agenda
-
-- UMN Director of Sustainability on AI - (Shane Stennes) [issue](https://github.umn.edu/code-people/meetings/issues/340)
-- Boomi API Development - Tonu (June) [Issue](https://github.umn.edu/code-people/meetings/issues/342)
+Maybe not happening?  Tonu & Shawn will see if they can pull together talks about their CCF projects
 
 ### Roles
-- Issue Responder: Travis 
-- MC: Tonu
-- Digital Archivist: Alison 
-- Talk Coordinator: Travis
- 
+- Issue Responder: Alison
+- MC: Travis
+- Digital Archivist: Tonu
+- Talk Coordinator: Shawn
+
 ## Next couple Months
 
 - July Happy Hour
- 
+
 ## Future
 
 [Issue Title 2 for webapps](https://github.umn.edu/code-people/meetings/issues/300)

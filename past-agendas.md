@@ -2,6 +2,12 @@
 
 # Code People Monthly Meetings
 
+## June 4th, 2026
+### Agenda
+
+- UMN Director of Sustainability on AI - (Shane Stennes) [issue](https://github.umn.edu/code-people/meetings/issues/340)
+- Boomi API Development - Tonu (June) [Issue](https://github.umn.edu/code-people/meetings/issues/342)
+
 ## May 7th, 2026
 ### Agenda
 - [Terror in the Supply Chain](https://github.umn.edu/code-people/meetings/issues/338) - Willy Lee
@@ -10,9 +16,9 @@
 ## April 2026
 No meeting, canceled
 
-## March 2026 
-- [Metaprogramming in Ruby - Shawn Isenhart](https://github.umn.edu/code-people/meetings/issues/223) 
-- [K3S on Hosting Provisioned RHEL 9 vms via ansible/AAP - Li Dai ](https://github.umn.edu/code-people/meetings/issues/333) 
+## March 2026
+- [Metaprogramming in Ruby - Shawn Isenhart](https://github.umn.edu/code-people/meetings/issues/223)
+- [K3S on Hosting Provisioned RHEL 9 vms via ansible/AAP - Li Dai ](https://github.umn.edu/code-people/meetings/issues/333)
 
 ## Feb 2026
 Fell on OIT PI week, no meeting
@@ -36,11 +42,11 @@ No meeting, University Holiday
   - Moderator
     - Joe Thor
 
-### Lighting Talk 
+### Lighting Talk
 - Github Migration
 ```
-Github.umn.edu decommission 
-9/8/25: Official Announcement 
+Github.umn.edu decommission
+9/8/25: Official Announcement
 1/8/26: Reminder Communication
 11/4/26: GitHub.umn.edu move to read-only
 5/5/27: GitHub.umn.edu sunset
@@ -55,7 +61,7 @@ kronlund@umn.edu
 - [Learning to program for independent research in the Social Sciences](https://github.umn.edu/code-people/meetings/issues/313)
 
 
-## July 
+## July
 - no meeting (Code Fest will be this month)
 
 
