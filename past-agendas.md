@@ -1,6 +1,9 @@
 # Past Meeting Agenda
 
 # Code People Monthly Meetings
+## September 3rd, 2026
+### Agenda
+Canceled
 
 ## June 4th, 2026
 ### Agenda
