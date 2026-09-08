@@ -1,8 +1,5 @@
 # Code People Monthly Meetings
 
-## September 3rd, 2026
-### Agenda
-Maybe not happening?  Tonu & Shawn will see if they can pull together talks about their CCF projects
 
 ### Roles
 - Issue Responder: Alison
