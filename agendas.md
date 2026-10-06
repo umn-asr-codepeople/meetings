@@ -1,18 +1,17 @@
 # Code People Monthly Meetings
 
-## October 1st, 2026
+## November 5th, 2026
 
-- Beyond the Scan: Finding the last 70% with manual testing for digital accessibility (Luke Kudryashov & Neal Sorensen) https://github.umn.edu/code-people/meetings/issues/349
-- (tentative) Introducing new UIS members & new initiatives focusing on application security (Dan Owens and Tong Xiong)
-
+- Building a web app with AI (Tonu) https://github.umn.edu/code-people/meetings/issues/350
+- AI Lightning talks from the community (to be requested by Shawn)
+  
 ### Roles
-- Issue Responder: Alison
-- MC: Shawn
-- Digital Archivist: Travis
-- Talk Coordinator: Tonu
+- Issue Responder: Shawn
+- MC: Travis
+- Digital Archivist: Tonu
+- Talk Coordinator: Shawn
 
 ## Next couple Months
 
-- Building a web app with AI (Tonu) https://github.umn.edu/code-people/meetings/issues/350
 
 ## Future
