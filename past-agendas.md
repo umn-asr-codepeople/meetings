@@ -1,6 +1,13 @@
 # Past Meeting Agenda
 
 # Code People Monthly Meetings
+
+
+## October 1st, 2026
+### Agenda
+- Beyond the Scan: Finding the last 70% with manual testing for digital accessibility (Luke Kudryashov & Neal Sorensen) https://github.umn.edu/code-people/meetings/issues/349
+- Introducing new UIS members & new initiatives focusing on application security (Dan Owens and Tong Xiong)
+
 ## September 3rd, 2026
 ### Agenda
 Canceled
