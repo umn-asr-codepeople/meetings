@@ -8,6 +8,8 @@ assignees: ''
 ---
 **What is your name?**
 
+**What is your email?**
+
 **What's the description of your lightning talk?**
 
 
