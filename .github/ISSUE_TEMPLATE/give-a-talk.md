@@ -8,6 +8,8 @@ assignees: ''
 ---
 **What is your name?**
 
+**What is your email?**
+
 **Briefly describe your idea for a talk**
 
 
