@@ -6,6 +6,7 @@ labels: LightningTalk
 assignees: ''
 
 ---
+**What is your name?**
 
 **What's the description of your lightning talk?**
 
